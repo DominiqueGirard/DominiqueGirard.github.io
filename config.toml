@@ -84,16 +84,16 @@ link = "#"
   url = "/publication"
 [[menu.main]]
   weight = 3
-  identifier = "categories"
-  name = "categories"
-  pre = "<i class=\"sidebar-button-icon fas fa-lg fa-bookmark\" aria-hidden=\"true\"></i>"
-  url = "/categories"
+  identifier = "Clinical Practice"
+  name = "Clinical Practice"
+  pre = "<i class=\"sidebar-button-icon fas fa-glasses\" aria-hidden=\"true\"></i>"
+  url = "https://fr.lespacepsychologie.com/staff-bios/dominique-girard"
 [[menu.main]]
   weight = 4
-  identifier = "tags"
-  name = "tags"
-  pre = "<i class=\"sidebar-button-icon fas fa-tags\" aria-hidden=\"true\"></i>"
-  url = "/tags"
+  identifier = "about"
+  name = "about"
+  pre = "<i class=\"sidebar-button-icon fas fa-lg fa-question\" aria-hidden=\"true\"></i>"
+  url = "/about"
 [[menu.main]]
   weight = 5
   identifier = "archives"
@@ -102,10 +102,16 @@ link = "#"
   url = "/archives"
 [[menu.main]]
   weight = 6
-  identifier = "about"
-  name = "about"
-  pre = "<i class=\"sidebar-button-icon fas fa-lg fa-question\" aria-hidden=\"true\"></i>"
-  url = "/about"
+  identifier = "categories"
+  name = "categories"
+  pre = "<i class=\"sidebar-button-icon fas fa-lg fa-bookmark\" aria-hidden=\"true\"></i>"
+  url = "/categories"
+[[menu.main]]
+  weight = 7
+  identifier = "tags"
+  name = "tags"
+  pre = "<i class=\"sidebar-button-icon fas fa-tags\" aria-hidden=\"true\"></i>"
+  url = "/tags"
 
 [[menu.links]]
   weight = 1
@@ -119,13 +125,6 @@ link = "#"
   name = "Linkedin"
   pre = "<i class=\"sidebar-button-icon fab fa-linkedin\" aria-hidden=\"true\"></i>"
   url = "https://www.linkedin.com/in/dominique-girard-41ba9812b/"
-
-[[menu.links]]
-  weight = 3
-  identifier = "Clinical Practice"
-  name = "Clinical Practice"
-  pre = "<i class=\"sidebar-button-icon fas fa-glasses\" aria-hidden=\"true\"></i>"
-  url = "https://fr.lespacepsychologie.com/staff-bios/dominique-girard"
 
 # -------------
 # Customization
