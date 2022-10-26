@@ -81,13 +81,13 @@ link = "#"
   identifier = "Publication"
   name = "Publication"
   pre = "<i class=\"sidebar-button-icon fas fa-lg fa-comment\" aria-hidden=\"true\"></i>"
-  url = "/Categories"
+  url = "/publication"
 [[menu.main]]
   weight = 3
   identifier = "categories"
   name = "categories"
   pre = "<i class=\"sidebar-button-icon fas fa-lg fa-bookmark\" aria-hidden=\"true\"></i>"
-  url = "/Categories"
+  url = "/categories"
 [[menu.main]]
   weight = 4
   identifier = "tags"
@@ -105,7 +105,7 @@ link = "#"
   identifier = "about"
   name = "about"
   pre = "<i class=\"sidebar-button-icon fas fa-lg fa-question\" aria-hidden=\"true\"></i>"
-  url = "/categories"
+  url = "/about"
 
 [[menu.links]]
   weight = 1
