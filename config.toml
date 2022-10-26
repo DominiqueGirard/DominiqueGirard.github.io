@@ -80,20 +80,14 @@ link = "#"
   weight = 2
   identifier = "Publication"
   name = "Publication"
-  pre = "<i class=\"sidebar-button-icon fas fa-lg fa-comment\" aria-hidden=\"true\"></i>"
-  url = "/Categories"
-[[menu.main]]
-  weight = 3
-  identifier = "categories"
-  name = "categories"
-  pre = "<i class=\"sidebar-button-icon fas fa-lg fa-bookmark\" aria-hidden=\"true\"></i>"
-  url = "/Categories"
+  pre = "<i class=\"sidebar-button-icon fas fa-lg fa-book\" aria-hidden=\"true\"></i>"
+  url = "/publication"
 [[menu.main]]
   weight = 4
-  identifier = "tags"
-  name = "tags"
-  pre = "<i class=\"sidebar-button-icon fas fa-tags\" aria-hidden=\"true\"></i>"
-  url = "/tags"
+  identifier = "about"
+  name = "about"
+  pre = "<i class=\"sidebar-button-icon fas fa-lg fa-question\" aria-hidden=\"true\"></i>"
+  url = "/about"
 [[menu.main]]
   weight = 5
   identifier = "archives"
@@ -102,30 +96,35 @@ link = "#"
   url = "/archives"
 [[menu.main]]
   weight = 6
-  identifier = "about"
-  name = "about"
-  pre = "<i class=\"sidebar-button-icon fas fa-lg fa-question\" aria-hidden=\"true\"></i>"
+  identifier = "categories"
+  name = "categories"
+  pre = "<i class=\"sidebar-button-icon fas fa-lg fa-bookmark\" aria-hidden=\"true\"></i>"
   url = "/categories"
+[[menu.main]]
+  weight = 7
+  identifier = "tags"
+  name = "tags"
+  pre = "<i class=\"sidebar-button-icon fas fa-tags\" aria-hidden=\"true\"></i>"
+  url = "/tags"
 
 [[menu.links]]
   weight = 1
+  identifier = "Clinical Practice"
+  name = "Clinical Practice"
+  pre = "<i class=\"sidebar-button-icon fas fa-glasses\" aria-hidden=\"true\"></i>"
+  url = "https://fr.lespacepsychologie.com/staff-bios/dominique-girard"
+[[menu.links]]
+  weight = 2
   identifier = "Twitter"
   name = "Twitter"
   pre = "<i class=\"sidebar-button-icon fab fa-twitter\" aria-hidden=\"true\"></i>"
   url = "https://twitter.com/do_girard11"
 [[menu.links]]
-  weight = 2
+  weight = 3
   identifier = "Linkedin"
   name = "Linkedin"
   pre = "<i class=\"sidebar-button-icon fab fa-linkedin\" aria-hidden=\"true\"></i>"
   url = "https://www.linkedin.com/in/dominique-girard-41ba9812b/"
-
-[[menu.links]]
-  weight = 3
-  identifier = "Clinical Practice"
-  name = "Clinical Practice"
-  pre = "<i class=\"sidebar-button-icon fab fa-user\" aria-hidden=\"true\"></i>"
-  url = "https://fr.lespacepsychologie.com/staff-bios/dominique-girard"
 
 # -------------
 # Customization
