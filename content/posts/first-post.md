@@ -6,7 +6,7 @@ metaAlignment: center
 autoThumbnailImage: false
 thumbnailImagePosition: "top"
 thumbnailImage: images/standard-post-header.jpg
-coverImage: images/city-cover-image.jpg
+coverImage: images/standard-cover-image.jpg
 ---
 
 Labore irure ut irure excepteur cillum id nulla. Cillum officia minim ut anim fugiat aute ipsum id ullamco aliqua in. Adipisicing magna sunt laborum veniam et. Sunt est quis est officia consequat laboris nisi. Consectetur non occaecat nisi consequat magna ad quis consectetur reprehenderit incididunt fugiat pariatur et minim. Irure laborum aliqua ad mollit nisi deserunt sint pariatur labore. Dolore reprehenderit fugiat sit veniam.
