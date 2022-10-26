@@ -80,7 +80,7 @@ link = "#"
   weight = 2
   identifier = "Publication"
   name = "Publication"
-  pre = "<i class=\"sidebar-button-icon fas fa-lg fa-comment\" aria-hidden=\"true\"></i>"
+  pre = "<i class=\"sidebar-button-icon fas fa-lg fa-book\" aria-hidden=\"true\"></i>"
   url = "/publication"
 [[menu.main]]
   weight = 3
@@ -124,7 +124,7 @@ link = "#"
   weight = 3
   identifier = "Clinical Practice"
   name = "Clinical Practice"
-  pre = "<i class=\"sidebar-button-icon fab fa-user\" aria-hidden=\"true\"></i>"
+  pre = "<i class=\"sidebar-button-icon fas fa-glasses\" aria-hidden=\"true\"></i>"
   url = "https://fr.lespacepsychologie.com/staff-bios/dominique-girard"
 
 # -------------
