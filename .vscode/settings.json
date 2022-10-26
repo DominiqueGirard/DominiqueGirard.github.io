@@ -2,8 +2,7 @@
   "search.exclude": {
     "**/node_modules": true,
     "**/bower_components": true,
-    "**/*.code-search": true,
-    "**/exampleSite": true
+    "**/*.code-search": true
   },
   "[toml]": {
     "editor.formatOnSave": false
