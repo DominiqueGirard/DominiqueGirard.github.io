@@ -1,5 +1,6 @@
 ---
 title: "Publication"
+date: 2022-10-24
 ---
 
 Quis labore mollit ut quis veniam minim. Consectetur commodo ea proident quis. Est sunt laboris sit ea tempor officia. Pariatur voluptate amet minim tempor. Laborum dolore eiusmod tempor nisi tempor reprehenderit. Qui consectetur eu esse est sint id in sint eiusmod minim eiusmod fugiat amet. Est sunt esse fugiat ut cupidatat laboris irure aliqua anim sunt mollit aliqua deserunt.

@@ -1,6 +1,9 @@
 ---
 title: "About"
+date: 2022-10-24
 ---
+
+{{ partial "test.html" . }}
 
 Quis quis aliquip et esse laboris enim laborum dolor nostrud voluptate id. Proident ea dolor dolore fugiat nulla do ex laborum aliquip officia minim. Irure proident ad cupidatat laboris commodo ullamco voluptate do proident consectetur irure nostrud occaecat reprehenderit. Aliquip ipsum anim mollit et. In incididunt voluptate sit eu nisi in duis ad amet mollit duis irure ea. Eiusmod proident proident sit nisi nisi cillum laborum nostrud tempor veniam ea. Incididunt ullamco id dolor velit fugiat quis officia laboris sunt et.
 
