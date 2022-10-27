@@ -57,10 +57,10 @@ link = "#"
   job = "Postdoctoral researcher"
   location = "Nijmegen, NL"
   # Your Gravatar email. Overwrite `author.picture` everywhere in the blog
-  gravatarEmail = "dominique.girard@radboudumc.nl"
+  # gravatarEmail = "dominique.girard@radboudumc.nl"
   # Your profile picture
   # Overwritten by your gravatar image if `author.gravatarEmail` is filled
-  picture = "https://i.ibb.co/VLbb889/771-A8331-1298-4-DF3-9-A58-C0-B6206944-B4-1-201-a.png"
+  picture = "images/portrait.png"
   # Your Twitter username without the @. E.g : thibaudlepretre
   twitter = "do_girard11"
   # Your google plus profile id. E.g : +ThibaudLepretre or 114625208755123718311
@@ -223,8 +223,8 @@ link = "#"
   # ------------------
   # Custom CSS. Put here your custom CSS files. They are loaded after the theme CSS;
   # they have to be referred from static root. Example
-  #  [[params.customCSS]]
-  #    href = "css/mystyle.css"
+  [[params.customCSS]]
+    href = "css/custom.css"
 
   # Custom JS. Put here your custom JS files. They are loaded after the theme JS;
   # they have to be referred from static root. Example
