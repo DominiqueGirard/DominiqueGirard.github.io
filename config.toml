@@ -83,25 +83,25 @@ link = "#"
   pre = "<i class=\"sidebar-button-icon fas fa-lg fa-book\" aria-hidden=\"true\"></i>"
   url = "/publications"
 [[menu.main]]
-  weight = 2
+  weight = 3
   identifier = "Projects"
   name = "Projects"
-  pre = "<i class=\"sidebar-button-icon fas fa-lg fa-book\" aria-hidden=\"true\"></i>"
+  pre = "<i class=\"sidebar-button-icon fas fa-lg fa-folder-open\" aria-hidden=\"true\"></i>"
   url = "/projects"
 [[menu.main]]
-  weight = 3
+  weight = 4
   identifier = "Blog"
   name = "Blog"
   pre = "<i class=\"sidebar-button-icon fas fa-lg fa-comment\" aria-hidden=\"true\"></i>"
   url = "/"
 [[menu.main]]
-  weight = 4
+  weight = 5
   identifier = "archives"
   name = "archives"
   pre = "<i class=\"sidebar-button-icon fas fa-lg fa-archive\" aria-hidden=\"true\"></i>"
   url = "/archives"
 [[menu.main]]
-  weight = 5
+  weight = 6
   identifier = "categories"
   name = "categories"
   pre = "<i class=\"sidebar-button-icon fas fa-lg fa-bookmark\" aria-hidden=\"true\"></i>"
