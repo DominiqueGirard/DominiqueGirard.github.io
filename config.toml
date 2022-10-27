@@ -72,10 +72,10 @@ link = "#"
 
 [[menu.main]]
   weight = 1
-  identifier = "Blog"
-  name = "Blog"
-  pre = "<i class=\"sidebar-button-icon fas fa-lg fa-comment\" aria-hidden=\"true\"></i>"
-  url = "/"
+  identifier = "about"
+  name = "about"
+  pre = "<i class=\"sidebar-button-icon fas fa-lg fa-question\" aria-hidden=\"true\"></i>"
+  url = "/about"
 [[menu.main]]
   weight = 2
   identifier = "Publications"
@@ -83,25 +83,25 @@ link = "#"
   pre = "<i class=\"sidebar-button-icon fas fa-lg fa-book\" aria-hidden=\"true\"></i>"
   url = "/publications"
 [[menu.main]]
-  weight = 4
-  identifier = "about"
-  name = "about"
-  pre = "<i class=\"sidebar-button-icon fas fa-lg fa-question\" aria-hidden=\"true\"></i>"
-  url = "/about"
+  weight = 3
+  identifier = "Blog"
+  name = "Blog"
+  pre = "<i class=\"sidebar-button-icon fas fa-lg fa-comment\" aria-hidden=\"true\"></i>"
+  url = "/"
 [[menu.main]]
-  weight = 5
+  weight = 4
   identifier = "archives"
   name = "archives"
   pre = "<i class=\"sidebar-button-icon fas fa-lg fa-archive\" aria-hidden=\"true\"></i>"
   url = "/archives"
 [[menu.main]]
-  weight = 6
+  weight = 5
   identifier = "categories"
   name = "categories"
   pre = "<i class=\"sidebar-button-icon fas fa-lg fa-bookmark\" aria-hidden=\"true\"></i>"
   url = "/categories"
 [[menu.main]]
-  weight = 7
+  weight = 6
   identifier = "tags"
   name = "tags"
   pre = "<i class=\"sidebar-button-icon fas fa-tags\" aria-hidden=\"true\"></i>"

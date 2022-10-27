@@ -3,10 +3,8 @@ title: "Publications"
 date: 2022-10-24
 ---
 
-Intro CV
 <!--more-->
 
-## PUBLICATIONS
 #### Articles (peer-reviewed)
 
 1. **Girard, D.**, Courchesne, V., Cimon-Paquet, C., Jacques, C., & Soulières, I.  (Accepted with revisions). Trajectories and perceptual precursor s of intelligence in minimally verbal autistic children from preschool to school age. Autism. 
