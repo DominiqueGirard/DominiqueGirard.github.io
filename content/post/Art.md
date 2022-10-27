@@ -1,14 +1,14 @@
 ---
-title: "PATHOS project"
+title: "Art-inspired projects"
 date: 2022-10-24
 metaAlignment: center
 
 autoThumbnailImage: false
 thumbnailImagePosition: "left"
-thumbnailImage: images/triad_MAiD.jpg
+thumbnailImage: images/Art_danse.jpg
 ---
 
-Labore irure ut irure excepteur cillum id nulla. Cillum officia minim ut anim fugiat aute ipsum id ullamco aliqua in. 
+Labore irure ut irure excepteur cillum id nulla. Cillum officia minim ut anim fugiat aute ipsum id ullamco aliqua in. Adipisicing magna sunt laborum veniam et. 
 <!--more-->
 Sunt est quis est officia consequat laboris nisi. Consectetur non occaecat nisi consequat magna ad quis consectetur reprehenderit incididunt fugiat pariatur et minim. Irure laborum aliqua ad mollit nisi deserunt sint pariatur labore. Dolore reprehenderit fugiat sit veniam.
 
