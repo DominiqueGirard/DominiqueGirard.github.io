@@ -9,7 +9,7 @@ Intro CV
 ## PUBLICATIONS
 #### Articles (peer-reviewed)
 
-7. **Girard, D.**, Courchesne, V., Cimon-Paquet, C., Jacques, C., & Soulières, I.  (Accepted with revisions). Trajectories and perceptual precursor s of intelligence in minimally verbal autistic children from preschool to school age. Autism. 
+1. **Girard, D.**, Courchesne, V., Cimon-Paquet, C., Jacques, C., & Soulières, I.  (Accepted with revisions). Trajectories and perceptual precursor s of intelligence in minimally verbal autistic children from preschool to school age. Autism. 
 
 6. Girard, D., & Bourgeois-Guérin, V. (2022). Hope and Suffering: a Hermeneutical and Existential Analysis of Akhmatova’s Requiem. The Humanistic Psychologist. 55 (1), 55-69.  https://doi.org/10.1037/hum0000178
 
@@ -25,7 +25,7 @@ Intro CV
 
 #### Articles (peer-reviewed submitted)
 
-4. Vachon, M., Ummel, D., Guité-Verret, A., Lessard, E., **Girard., D.** (submitted). A phenomenological and clinical description of pandemic grief: How to adapt bereavement services? Palliative Medicine Reports. 
+1. Vachon, M., Ummel, D., Guité-Verret, A., Lessard, E., **Girard., D.** (submitted). A phenomenological and clinical description of pandemic grief: How to adapt bereavement services? Palliative Medicine Reports. 
 
 3. Vachon, M., Guité-Verret, A., Ummel, D., **Girard, D.**, Lessard, E. (submitted). “I couldn’t”: A phenomenological exploration of ethical tensions experienced by bereaved family members during the pandemic. International Journal of Qualitative Studies on Health and Well-being. 
 
@@ -34,7 +34,7 @@ Intro CV
 1. Bourgeois-Guérin, V., **Girard, D.**, Martin, C., Sussman, T., Gagnon, E., Simard, J., van Pevenage, I., Durivage, P. (under review). Comme en temps de guerre : morts et deuils en RPA et en CHSLD pendant la pandémie de COVID-19.  Frontières.
 
 #### Articles (without a review committee)
-4. Cusson, N., & **Girard, D.** (2020). Cinq mythes fréquents sur l’autisme. Sur le Spectre, Printemps 2020, 13-14. url : http://grouperechercheautismemontreal.ca/SurLeSpectre/CIUSSS_Magazine_printemps20_FR_PP_LR.pdf
+1. Cusson, N., & **Girard, D.** (2020). Cinq mythes fréquents sur l’autisme. Sur le Spectre, Printemps 2020, 13-14. url : http://grouperechercheautismemontreal.ca/SurLeSpectre/CIUSSS_Magazine_printemps20_FR_PP_LR.pdf
 3. **Girard, D.**, & Danis, E. (2017). L’attention en autisme : un survol des travaux du groupe d’Anna Remington. Sur le Spectre, 4, 8-9. url : http://autismresearchgroupmontreal.ca/SurLeSpectre/Sur%20le%20spectre_vol4_final.pdf
 2. Bouchard, V., & **Girard, D.** (2017). S’adapter à l’intelligence autistique pour favoriser les apprentissages. Sur le Spectre, 3, 11-12. url : http://autismresearchgroupmontreal.ca/SurLeSpectre/Vol%203%20version%20électronique.pdf
 1. **Girard, D.**, & Meilleur, A. (2016). L’intelligence en autisme : facteur «p» ou facteur «g»? Sur le Spectre, 1, 15. url : http://autismresearchgroupmontreal.ca/SurLeSpectre/Sur_le_spectre_no_1_2016-04.pdf
@@ -45,7 +45,7 @@ Over the past 5 years, I have presented and collaborated to a total of 16 oral p
 
 #### ORAL PRESENTATIONS
 ###### International conferences
-4. **Girard, D.**, Stolk, M., van Wijngaarden, E. (2022, June). Unraveling the meaning of suffering in the context of euthanasia and assisted suicide: a systematic review. The 39th Annual International Human Science Research Conference. New York, United States. 
+1. **Girard, D.**, Stolk, M., van Wijngaarden, E. (2022, June). Unraveling the meaning of suffering in the context of euthanasia and assisted suicide: a systematic review. The 39th Annual International Human Science Research Conference. New York, United States. 
 3. **Girard, D.**, & Bourgeois-Guérin, V. (2020, May). Dialogue Between the Poetics of Aging in Edvard Munch’s Art and Critical Gerontology. The 39th Annual International Human Science Research Conference. New York, United States. Canceled because of the Covid-19 pandemic.
 2. **Girard, D.**, & Bourgeois-Guérin, V. (2019, June). The Poetry of Anna Akhmatova : A Meditation on Hope and Suffering. The 38th Annual International Human Science Research Conference. Molde, Norway.
 **Travel Award for International Conference from the Faculty of Human Sciences, UQAM – 700$CAN**
@@ -53,21 +53,21 @@ Over the past 5 years, I have presented and collaborated to a total of 16 oral p
 1. Courchesne, V., **Girard, D.**, Jacques, C., & Soulières, I. (2017, May). Sex Differences in Cognitive and Reasoning Abilities Among Preschool Autistic Children. The 16th Annual International Meeting for Autism Research. San Francisco, United States.
 
 ###### National conferences
-5. Symposium : **Girard. D.**, Lavoie, D., Vin, E. (2022, September). La Souffrance en contexte d’aide médicale à mourir.   Le 1er colloque interdisciplinaire sur la douleur et la souffrance. Montreal, Canada.
+1. Symposium : **Girard. D.**, Lavoie, D., Vin, E. (2022, September). La Souffrance en contexte d’aide médicale à mourir.   Le 1er colloque interdisciplinaire sur la douleur et la souffrance. Montreal, Canada.
 4. Bourgeois-Guérin, V., **Girard, D.**, Martin, C., et al. (2022, March). Décès et Deuil en RPA et CHSLD en contexte de pandémie de COVID-19. Conférences CREGES. Montreal, Canada.
 3. Symposium : Soulières, I., Courchesne, V., **Girard, D.**, & Jacques, C (2017, March). Particularités développementales, apprentissage atypique et intérêts particuliers : les apports de la recherche pour la pratique clinique en autisme. Le 39e congrès annuel de la Société Québécoise pour la Recherche en Psychologie. Montreal, Canada.
 2. **Girard, D.**, Courchesne, V., Jacques, C., & Soulières, I. (2017, March). Symposium : Particularités du profil cognitif et de l’évaluation du potentiel intellectuel en autisme. Le 39e congrès annuel de la Société Québécoise pour la Recherche en Psychologie. Montreal, Canada.
 1. Courchesne, V., Nader, A.-M., **Girard, D.**, Bouchard, V., Danis, E., & Soulières, I. (2017, March). Évaluation et optimisation du potentiel des enfants autistes : la recherche au service de l’intervention. Le 39e congrès annuel de la Société Québécoise pour la Recherche en Psychologie. Montreal, Canada. 
 
 ###### Conferences at the host university or research institute
-4. **Girard, D.** (2018, May). L’utilisation de la technologie au profit des apprentissages et habiletés sociales chez les enfants autistes. Colloque scientifique de l’hôpital Rivière-des-Prairies, une mise au point du congrès International Meeting for Autism Research. Montreal, Canada. 4. Girard, D. (2017, November). La reconnaissance d’émotions chez les enfants autistes : Une comparaison des expressions faciales humaines et de celles d’un robot. La 5e journée scientifique neuroQAM 2017. Montreal, Canada. 
+1. **Girard, D.** (2018, May). L’utilisation de la technologie au profit des apprentissages et habiletés sociales chez les enfants autistes. Colloque scientifique de l’hôpital Rivière-des-Prairies, une mise au point du congrès International Meeting for Autism Research. Montreal, Canada. 4. Girard, D. (2017, November). La reconnaissance d’émotions chez les enfants autistes : Une comparaison des expressions faciales humaines et de celles d’un robot. La 5e journée scientifique neuroQAM 2017. Montreal, Canada. 
 3. **Girard, D.** (2017, June). Vers une meilleure compréhension des défis auxquels font face les individus TSA et leurs impacts sur la vie quotidienne. Colloque scientifique de l’hôpital Rivière-des-Prairies, une mise au point du congrès International Meeting for Autism Research. Montreal, Canada. 
 2. **Girard, D.**, & Courchesne, V. (2016, June). L’utilisation des tests d’intelligence et de fonctionnement adaptatif chez les enfants ayant un trouble du spectre de l’autisme. Colloque scientifique de l’hôpital Rivière-des-Prairies, une mise au point du congrès International Meeting for Autism Research, Montreal, Canada. 
 1. **Girard, D.**, Courchesne, V., Nader, A.-M., & Soulières, I. (2016, March). L’évaluation du potentiel cognitif chez les enfants autistes d’âge préscolaire et scolaire : une comparaison des outils disponibles. Journée scientifique de l’Association des étudiantes et étudiants en recherche en santé mentale de Montréal, Montreal, Canada. 
 
 #### POSTER PRESENTATIONS
 ###### International presentations
-9. **Girard, D.**, Courchesne, V., & Soulières, I. (2020, May). Testability Developmental Paths in Young Autistic Children: A Longitudinal Study Using Conventional and Strength-Based Assessment. The 19th Annual Meeeting of the International Society for Autism Research, Seattle, United States. Canceled because of the Covid-19 pandemic.
+1. **Girard, D.**, Courchesne, V., & Soulières, I. (2020, May). Testability Developmental Paths in Young Autistic Children: A Longitudinal Study Using Conventional and Strength-Based Assessment. The 19th Annual Meeeting of the International Society for Autism Research, Seattle, United States. Canceled because of the Covid-19 pandemic.
 *Travel Award from the Institute of Cognitive Science in Montreal – 2 laureates – 500$CAN
 8. **Girard, D.**, Girard-Bossé, A., Drob, T., Bayati, P., Courchesne, V., & Soulières, I (2019, May). Testability in Young Autistic Children : A Descriptive Longitudinal Study Comparing Conventional and Strength-Based Assessment. The 18th Annual Meeeting of the International Society for Autism Research. Montreal, Canada.  
 7. **Girard, D.**, & Garcia-Molina, I. (2018, May). Theory of Mind and Intelligence: The Importance of Visual Stimulus in Autism. The 17th Annual Meeting of the International Society for Autism Research. Rotterdam, The Netherlands. 
@@ -84,7 +84,7 @@ Over the past 5 years, I have presented and collaborated to a total of 16 oral p
 1. **Girard, D.**, Courchesne, V., Danis, E., Descamps, M., & Soulières, I. (2016, May). Assessment of Intelligence: A Comparison of Intellectual and Adaptive Functioning in Preschool Autistic Children. The 15th Annual International Meeting for Autism Research, Baltimore, United States. 
 
 ###### National conferences
-8. Drob, T., **Girard, D.**, Bayati, P., Girard-Bossé, A., Courchesne, V., & Soulières, I (2019, March). Testabilité des jeunes enfants ayant un trouble du spectre de l’autisme: une étude longitudinale descriptive comparant l’évaluation conventionnelle et celle basée sur les forces. Le 41e congrès annuel de la Société Québécoise pour la Recherche en Psychologie, Montreal, Canada.
+1. Drob, T., **Girard, D.**, Bayati, P., Girard-Bossé, A., Courchesne, V., & Soulières, I (2019, March). Testabilité des jeunes enfants ayant un trouble du spectre de l’autisme: une étude longitudinale descriptive comparant l’évaluation conventionnelle et celle basée sur les forces. Le 41e congrès annuel de la Société Québécoise pour la Recherche en Psychologie, Montreal, Canada.
 7. **Girard, D.**, Courchesne, V., Cimon-Paquet, C., Danis, E., Soulières, I., & Jacques, C. (2017, March).  Les habiletés sociales et en communication sont-elles associées à l’expression d’émotions durant une situation de stimulation par le jeu chez les enfants autistes? Le 39e congrès annuel de la Société Québécoise pour la Recherche en Psychologie, Montreal, Canada.
 6. Letendre, C., Courchesne, V., **Girard, D.**, Soulières, I., Mottron, L., & Jacques, C. (2017, March). Langage et intelligence non verbal chez les enfants autistes d’âge préscolaire avec ou sans retard de langage. Le 38e congrès annuel de la Société québécoise pour la recherche en psychologie, Montreal, Canada.
 5. Bourdon, D.-E., El-Baalbaki, G., **Girard, D.**, Lapointe-Blackburn, E., & Guay, S. (2017, March). Les schémas cognitifs et les stratégies d’adaptation dans la thérapie cognitive comportementale pour le trouble de stress post-traumatique: une recension systématique. Le 38e congrès annuel de la Société québécoise pour la recherche en psychologie, Montreal, Canada.
@@ -95,7 +95,7 @@ Over the past 5 years, I have presented and collaborated to a total of 16 oral p
 **Best poster presentation – 1 laureate – 250$ CAN**
 
 ###### Conferences at the host university or research institute
-3. **Girard, D.**, & Garcia-Molina, I. (2018, May). Théorie de l’esprit et intelligence: l’importance des stimuli visuels en autisme. Journée annuelle de la recherche du CIUSSS du Nord-de-l’île-de-Montréal. Montreal, Canada. 
+1. **Girard, D.**, & Garcia-Molina, I. (2018, May). Théorie de l’esprit et intelligence: l’importance des stimuli visuels en autisme. Journée annuelle de la recherche du CIUSSS du Nord-de-l’île-de-Montréal. Montreal, Canada. 
 **Best poster presentation – 3 laureates – 500$ CAN**
 2. **Girard, D.**, Courchesne, V., Cimon-Paquet, C., Danis, E., Soulières, I., & Jacques, C. (2017, March).  Les habiletés sociales et en communication sont-elles associées à l’expression d’émotions durant une situation de stimulation par le jeu chez les enfants autistes? Journée annuelle de la recherche du CIUSSS du Nord-de-l’île-de-Montréal. Montreal, Canada.
 **Best poster presentation – 3 laureates – 500$ CAN**
