@@ -15,13 +15,13 @@ Intro CV
 
 5. Girard, D., Courchesne, V., Degré-Pelletier, J., Letendre, C., & Soulières, I. (2022). Assessing global developmental delay across instruments in minimally verbal preschool autistic children: the importance of a multi-method and multi-informant approach. Autism Research, 15 (1), 103-116.
 
-4. Courchesne, V., Girard, D., Jacques, C., & Soulières, I. (2019). Assessing intelligence at autism diagnosis: mission impossible? Testability and cognitive profile of autistic pre-schoolers. Journal of Autism and Developmental Disorders. 49(3), 845-856. doi: 10.1007/s10803-018-3786-
+4. Courchesne, V., Girard, D., Jacques, C., & Soulières, I. (2019). Assessing intelligence at autism diagnosis: mission impossible? Testability and cognitive profile of autistic pre-schoolers. Journal of Autism and Developmental Disorders. 49(3), 845-856. 10.1007/s10803-018-3786-4
 
-3. Bourdon, D.-E., El-Baalbaki, G., Girard, D., Lapointe-Blackburn, E., & Guay, S. (2018). Schemas and Coping Strategies in CognitiveBehavioral Therapy for PTSD: A Systematic Review. European Journal of Trauma & Dissociation. 3(1), 33-47. doi: https://doi.org/10.1016/j. ejtd.2018.09.005
+3. Bourdon, D.-E., El-Baalbaki, G., Girard, D., Lapointe-Blackburn, E., & Guay, S. (2018). Schemas and Coping Strategies in CognitiveBehavioral Therapy for PTSD: A Systematic Review. European Journal of Trauma & Dissociation. 3(1), 33-47. https://doi.org/10.1016/j. ejtd.2018.09.005
 
-2. Girard, D., Tardif, J.-C., Boisclair-Demarble, J., & D’Antono, B. (2016). Trait hostility and acute inflammatory responses to stress in the laboratory. PlosONE, 11(6), doi : https://doi.org/10.1371/journal.pone.0156329
+2. Girard, D., Tardif, J.-C., Boisclair-Demarble, J., & D’Antono, B. (2016). Trait hostility and acute inflammatory responses to stress in the laboratory. PlosONE, 11(6), https://doi.org/10.1371/journal.pone.0156329
 
-1. Courchesne, V., Nader, A.-M., Girard, D., Bouchard, V., Danis, E., & Soulières, I. (2016). Le profil cognitif au service des apprentissages : optimiser le potentiel des enfants sur le spectre de l’autisme. Revue québécoise de psychologie. 37(2), 1-39. doi : https://doi. org/10.7202/1040041ar
+1. Courchesne, V., Nader, A.-M., Girard, D., Bouchard, V., Danis, E., & Soulières, I. (2016). Le profil cognitif au service des apprentissages : optimiser le potentiel des enfants sur le spectre de l’autisme. Revue québécoise de psychologie. 37(2), 1-39. https://doi. org/10.7202/1040041ar
 
 #### Articles (peer-reviewed submitted)
 
