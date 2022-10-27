@@ -78,10 +78,10 @@ link = "#"
   url = "/"
 [[menu.main]]
   weight = 2
-  identifier = "Publication"
-  name = "Publication"
+  identifier = "Publications"
+  name = "Publications"
   pre = "<i class=\"sidebar-button-icon fas fa-lg fa-book\" aria-hidden=\"true\"></i>"
-  url = "/publication"
+  url = "/publications"
 [[menu.main]]
   weight = 4
   identifier = "about"
