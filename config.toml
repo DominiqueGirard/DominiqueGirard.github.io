@@ -87,7 +87,7 @@ link = "#"
   identifier = "Projects"
   name = "Projects"
   pre = "<i class=\"sidebar-button-icon fas fa-lg fa-folder-open\" aria-hidden=\"true\"></i>"
-  url = "/projects"
+  url = "projects"
 [[menu.main]]
   weight = 4
   identifier = "Blog"
