@@ -1,1 +1,0 @@
-{{ $image := .Resources.GetMatch "triad_MAiD.jpg" }}
