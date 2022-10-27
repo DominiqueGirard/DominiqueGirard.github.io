@@ -17,7 +17,7 @@ Intro CV
 
 4. Courchesne, V., Girard, D., Jacques, C., & Soulières, I. (2019). Assessing intelligence at autism diagnosis: mission impossible? Testability and cognitive profile of autistic pre-schoolers. Journal of Autism and Developmental Disorders. 49(3), 845-856. 10.1007/s10803-018-3786-4
 
-3. Bourdon, D.-E., El-Baalbaki, G., Girard, D., Lapointe-Blackburn, E., & Guay, S. (2018). Schemas and Coping Strategies in CognitiveBehavioral Therapy for PTSD: A Systematic Review. European Journal of Trauma & Dissociation. 3(1), 33-47. https://doi.org/10.1016/j. ejtd.2018.09.005
+3. Bourdon, D.-E., El-Baalbaki, G., Girard, D., Lapointe-Blackburn, E., & Guay, S. (2018). Schemas and Coping Strategies in CognitiveBehavioral Therapy for PTSD: A Systematic Review. European Journal of Trauma & Dissociation. 3(1), 33-47. https://doi.org/10.1016/j.ejtd.2018.09.005
 
 2. Girard, D., Tardif, J.-C., Boisclair-Demarble, J., & D’Antono, B. (2016). Trait hostility and acute inflammatory responses to stress in the laboratory. PlosONE, 11(6), https://doi.org/10.1371/journal.pone.0156329
 
