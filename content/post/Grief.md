@@ -5,7 +5,7 @@ metaAlignment: center
 
 autoThumbnailImage: false
 thumbnailImagePosition: "left"
-thumbnailImage: images/Grief.jpg
+thumbnailImage: images/hands.jpg
 ---
 
 Labore irure ut irure excepteur cillum id nulla. Cillum officia minim ut anim fugiat aute ipsum id ullamco aliqua in. Adipisicing magna sunt laborum veniam et. 

@@ -84,8 +84,8 @@ link = "#"
   url = "/publications"
 [[menu.main]]
   weight = 3
-  identifier = "Projects"
-  name = "Projects"
+  identifier = "Research Projects"
+  name = "Research Projects"
   pre = "<i class=\"sidebar-button-icon fas fa-lg fa-folder-open\" aria-hidden=\"true\"></i>"
   url = "/post"
 [[menu.main]]
