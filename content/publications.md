@@ -38,7 +38,7 @@ Over the past 5 years, I have presented and collaborated to a total of 16 oral p
 1. **Girard, D.**, Stolk, M., van Wijngaarden, E. (2022, June). Unraveling the meaning of suffering in the context of euthanasia and assisted suicide: a systematic review. The 39th Annual International Human Science Research Conference. New York, United States. 
 3. **Girard, D.**, & Bourgeois-Guérin, V. (2020, May). Dialogue Between the Poetics of Aging in Edvard Munch’s Art and Critical Gerontology. The 39th Annual International Human Science Research Conference. New York, United States. Canceled because of the Covid-19 pandemic.
 2. **Girard, D.**, & Bourgeois-Guérin, V. (2019, June). The Poetry of Anna Akhmatova : A Meditation on Hope and Suffering. The 38th Annual International Human Science Research Conference. Molde, Norway.
-**Travel Award for International Conference from the Faculty of Human Sciences, UQAM – 700$CAN**
+    - **Travel Award for International Conference from the Faculty of Human Sciences, UQAM – 700$CAN**
 
 1. Courchesne, V., **Girard, D.**, Jacques, C., & Soulières, I. (2017, May). Sex Differences in Cognitive and Reasoning Abilities Among Preschool Autistic Children. The 16th Annual International Meeting for Autism Research. San Francisco, United States.
 
@@ -58,18 +58,18 @@ Over the past 5 years, I have presented and collaborated to a total of 16 oral p
 #### POSTER PRESENTATIONS
 ###### International presentations
 1. **Girard, D.**, Courchesne, V., & Soulières, I. (2020, May). Testability Developmental Paths in Young Autistic Children: A Longitudinal Study Using Conventional and Strength-Based Assessment. The 19th Annual Meeeting of the International Society for Autism Research, Seattle, United States. Canceled because of the Covid-19 pandemic.
-*Travel Award from the Institute of Cognitive Science in Montreal – 2 laureates – 500$CAN
+    - **Travel Award from the Institute of Cognitive Science in Montreal – 2 laureates – 500$CAN**
 8. **Girard, D.**, Girard-Bossé, A., Drob, T., Bayati, P., Courchesne, V., & Soulières, I (2019, May). Testability in Young Autistic Children : A Descriptive Longitudinal Study Comparing Conventional and Strength-Based Assessment. The 18th Annual Meeeting of the International Society for Autism Research. Montreal, Canada.  
 7. **Girard, D.**, & Garcia-Molina, I. (2018, May). Theory of Mind and Intelligence: The Importance of Visual Stimulus in Autism. The 17th Annual Meeting of the International Society for Autism Research. Rotterdam, The Netherlands. 
-**Travel Award from the CIUSSS-de-Nord-de-l’île-de-Montréal – 3 laureates – 500$CAN**
-**Student/Trainee Award from INSAR – 15 laureates worldwide – 500$US**
+    - **Travel Award from the CIUSSS-de-Nord-de-l’île-de-Montréal – 3 laureates – 500$CAN**
+    - **Student/Trainee Award from INSAR – 15 laureates worldwide – 500$US**
 6. Alcorn, A. M., **Girard, D.**, Ainger, E., Babovic Dimitrijevic, S., Skendzic, S., Petrovic, S., Petrovic, V., Pellicano, E., & the DE-ENIGMA project consortium (2018, May). Autism Characteristics, Adaptive Skills, and Performance in an Emotion-Recognition Teaching Programme with a Humanoid Robot. The 17th Annual Meeting of the International Society for Autism Research. Rotterdam, The Netherlands.
 5. **Girard, D.**, Alcorn, A. M., Ainger, E., Babovic Dimitrijevic, S., Skendzic, S., Petrovic, S., Petrovic, V., Pellicano, E., & DE-ENIGMA project consortium (2018, May). Are Some Emotions Harder Than Others? A Study of Autistic Children Recognising Human and Robot Facial Emotion Expressions in the UK and Serbia. The 17th Annual Meeting of the International Society for Autism Annual Meeting. Rotterdam, The Netherlands. 
-**Travel award from Les Offices jeunesse internationaux du Québec (LOJIQ) – 530$CAN**
-**Travel award from the Faculty of Human Sciences – 600$CAN**
+    - **Travel award from Les Offices jeunesse internationaux du Québec (LOJIQ) – 530$CAN**
+    - **Travel award from the Faculty of Human Sciences – 600$CAN**
 4. Letendre, C., Courchesne, V., **Girard, D.**, Soulières, I., & Jacques, C. (2017, May). Receptive Language Skills and Non-Verbal Cognitive Abilities Among Preschool-Aged Autistic Children with Delayed Expressive Language. The 16th Annual Meeting of the International Meeting for Autism Research. San Francisco, United States.
 3. **Girard, D.**, Courchesne V., Cimon-Paquet, C., Danis, E., Soulières, I., & Jacques, C. (2017, May). Are Communication and Social Skills Associated with Emotional Expressions During a Stimulating Play Situation in Young Autistic Children. The 16th Annual Meeting of the International Meeting for Autism Research. San Francisco, United States. 
-**Travel award from the Faculty of Human Sciences – 500$CAN**
+    - **Travel award from the Faculty of Human Sciences – 500$CAN**
 2. Courchesne, V., Jacques, C., **Girard, D.**, Descamps, M., Danis, E., Mottron, L., & Soulières, I. (2016, May). Assessment of Intellectual Functioning at Age of Diagnosis: Testability and Comparison of Available Tests. The 15th Annual International Meeting for Autism Research, Baltimore, United States. 
 1. **Girard, D.**, Courchesne, V., Danis, E., Descamps, M., & Soulières, I. (2016, May). Assessment of Intelligence: A Comparison of Intellectual and Adaptive Functioning in Preschool Autistic Children. The 15th Annual International Meeting for Autism Research, Baltimore, United States. 
 
@@ -82,11 +82,12 @@ Over the past 5 years, I have presented and collaborated to a total of 16 oral p
 3. **Girard, D.**, Degré-Pelletier, J., Courchesne, V., Jacques, C., & Soulières, I. (2016, April). L’impact du niveau cognitif sur la comparaison entre le QI et les comportements adaptatifs chez less enfants autistes. Le 37e congrès annuel de la Société Québécoise pour la Recherche en Psychologie, Trois-Rivières, Canada. 
 2. Degré-Pelletier, J., **Girard, D.**, Courchesne, V., Jacques, C., & Soulières, I. (2016, April). Évaluation de l’intelligence chez les enfants TSA: comparaison du VABS et du MSEL. Le 37e congrès annuel de la Société Québécoise pour la Recherche en Psychologie, Trois-Rivières, Canada. 
 1. Courchesne, V., **Girard, D.**, Nader, A.-M., & Soulières, I. (2015, October). L’évaluation de l’intelligence chez les enfants autistes : une comparaison des tests disponibles à l’âge scolaire et préscolaire. Le 27e congrès annuel de l’Association Québécoise des Psychologues Scolaires, Trois-Rivières, Canada. 
-**Best poster presentation – 1 laureate – 250$ CAN**
+    - **Best poster presentation – 1 laureate – 250$ CAN**
 
 ###### Conferences at the host university or research institute
 1. **Girard, D.**, & Garcia-Molina, I. (2018, May). Théorie de l’esprit et intelligence: l’importance des stimuli visuels en autisme. Journée annuelle de la recherche du CIUSSS du Nord-de-l’île-de-Montréal. Montreal, Canada. 
-**Best poster presentation – 3 laureates – 500$ CAN**
+    - **Best poster presentation – 3 laureates – 500$ CAN**
 2. **Girard, D.**, Courchesne, V., Cimon-Paquet, C., Danis, E., Soulières, I., & Jacques, C. (2017, March).  Les habiletés sociales et en communication sont-elles associées à l’expression d’émotions durant une situation de stimulation par le jeu chez les enfants autistes? Journée annuelle de la recherche du CIUSSS du Nord-de-l’île-de-Montréal. Montreal, Canada.
-**Best poster presentation – 3 laureates – 500$ CAN**
-1. **Girard, D.**, Degré-Pelletier, J., Courchesne, V., Jacques, C., & Soulières, I. (2016, April). L’impact du niveau cognitif sur la comparaison entre le QI et les comportements adaptatifs chez less enfants autistes. 1- Colloque annuel du département de psychologie de l’UQAM, Montreal; 2- Journée scientifique de l’Association des étudiantes et étudiants en recherche en santé mentale de Montréal, Montreal, Canada. **Best poster presentation – 2 laureates – 1000$ CAN** 
+    - **Best poster presentation – 3 laureates – 500$ CAN**
+1. **Girard, D.**, Degré-Pelletier, J., Courchesne, V., Jacques, C., & Soulières, I. (2016, April). L’impact du niveau cognitif sur la comparaison entre le QI et les comportements adaptatifs chez less enfants autistes. 1- Colloque annuel du département de psychologie de l’UQAM, Montreal; 2- Journée scientifique de l’Association des étudiantes et étudiants en recherche en santé mentale de Montréal, Montreal, Canada. 
+    - **Best poster presentation – 2 laureates – 1000$ CAN** 
