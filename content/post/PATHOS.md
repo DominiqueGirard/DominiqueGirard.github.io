@@ -26,6 +26,10 @@ The project’s comparative approach and qualitative empirical detail will hopef
 
 The PATHOS project is hosted by the Radboud University Medical Center in Nijmegen, Netherlands. The supervisor of this project is [ Prof. Dr. Els van Wijngaarden](https://www.elsvanwijngaarden.com/).
 
+---
+
+
+
 # FRQSC funding #
 
 The PATHOS project has been funded by the [**Fonds de Recherche du Québec – Société et Culture (FRQSC)**](https://frq.gouv.qc.ca/en/society-and-culture/). 
@@ -36,7 +40,28 @@ The FRQSC grants are awarded through open competition to support the training of
 
 The criteria for selection are based on academic excellence, quality, the research project's originality, and the host environment's relevance. 
 
- 
- 
+ ---
+ #### Bibliography ####
+
+ 1.	Munafo, F.R., & Smith, G.D. (2018). Robust Research Needs Many Lines of Evidence. Nature, 553(7689), 399-401. https://doi.org/10.1038/d41586-018-01023-3.
+2.	Goldberg, R., Nissim, R., An, E., & Hales, S. (2019). Impact of Medical Assistance in Dying (MAiD) on Family Caregivers. BMJ supportive & palliative care, bmjspcare-2018-001686. Advance online publication. https://doi.org/10.1136/bmjspcare-2018-001686.
+3.	Arteau, J. (2019). Le recours à l’aide médicale à mourir au Québec : l’expérience occultée des proches. (Publication No. 35102) [Master’s thesis, Université Laval]. Corpus Université Laval.
+4.	Assemblée Nationale du Québec. (2013). Projet de loi n°52 : Loi concernant les soins de fin de vie. http://www.assnat.qc.ca/fr/travaux-parlementaires/projets-loi/projet-loi-52-40-1.html.
+5.	Snijdewind, M.C., van Tol, D.G., Onwuteaka-Philipsen, B.D., & Willems, D.L. (2014). Complexities in Euthanasia or Physician-Assisted Suicide as Perceived by Dutch Physicians and Patients' Relatives. Journal of Pain and Symptom Management, 48(6),1125-1134. doi:  10.1016/j.jpainsymman.2014.04.016.
+6.	Roest, B., Trappenburg, M., & Leget, C. (2019). The Involvement of Family in the Dutch Practice of Euthanasia and Physician Assisted Suicide: a Aystematic Mixed Studies Review. Systematic Review. BMC Med Ethics, 20(1):23. doi:10.1186/s12910-019-0361-2.
+7.	Cassell, E.J. (1982). The Nature of Suffering and the Goals of Medicine. The New England Journal of Medicine, 306(11), 639-645. doi:10.1056/NEJM198203183061104.
+8.	Dees, M.K., Vernooij-Dassen, M., Dekkers, M., & van Weel, C. (2010). Unbearable Suffering of Patients with a Request for Euthanasia or Physician-Assisted Suicide: an Integrative Review. Psychooncology,19(4), 339-352. doi:10.1002/pon.1612.
+9.	Jackson, V. A., Mack, J., Matsuyama, R., Lakoma, M. D., Sullivan, A. M., Arnold, R. M., Weeks, J. C., & Block, S. D. (2008). A Qualitative Study of Oncologists' Approaches to End-of-Life Care. Journal of palliative medicine, 11(6), 893–906. https://doi.org/10.1089/jpm.2007.2480.
+10.	Hales, B. M., Bean, S., Isenberg-Grzeda, E., Ford, B., & Selby, D. (2019). Improving the Medical Assistance in Dying (MAID) Process: A Qualitative Study of Family Caregiver Perspectives. Palliative & supportive care, 17(5), 590–595. https://doi.org/10.1017/S147895151900004X.
+11.	Ricoeur, P. (1994). La souffrance n'est pas la douleur. In J.-M. Von Kaenel & B. Ajchbaum-Boffety (Eds.), Souffrances, corps et âme, épreuves partagées (pp. 58-70). Paris: Éditions Autrement.
+12.	Bourgeois-Guérin, V., & Beaudoin, S. (2016). La place de l'éthique dans l'interprétation de la souffrance en recherche qualitative. Recherches qualitatives, 35(2), 23-44. http://www.recherche-qualitative.qc.ca/revue/.
+13.	Bourgeois-Guérin, V. (2013). Un corps éprouvé: la souffrance et l'expérience du corps chez les femmes âgées atteintes d'un cancer incurable. Recherches féministes, 26(1), 151-170. doi:10.7202/1016901ar.
+14.	Denzin, N. K. (1989). Interpretive Interactionism. Thousand Oaks, CA: Sage.
+15.	Tracy, S. J. (2013). Qualitative Research Methods. UK: Wiley-Blackwell.
+16.	Paillé, P., & Mucchielli, A. (2012). L’analyse qualitative en sciences humaines et sociales. Paris: Armand Collin.
+17.	Fried, T. R., & Bradley, E. H. (2003). What Matters to Seriously Ill Older Persons Making End-of-Life Treatment Decisions?: A Qualitative Study. Journal of palliative medicine, 6(2), 237-244. doi:10.1089/10966103764978489.
+18.	Ohnsorge, K., Keller, H. R. G., Widdershoven, G. A. M., & Rehmann-Sutter, C. (2012). "Ambivalence" at the End of Life: How to Understand Patients' Wishes Ethically. Nursing Ethics, 19(5). doi:10.1177/0969733011436206.
+19.	Morrow, S. L. (2007). Qualitative Research: A Guide to Design and Implementation: Revised and expanded from qualitative research and case study applications in education. The Counseling Psychologist, 35(2), 209-235. doi:10.1177/0011000006286990.
+20.	Regional Euthanasia Review Committees. Euthanasia Code 2018. Accessed September 9th 2020, https://english.euthanasiecommissie.nl/the-committees/code-of-practice.
 
 <!--{{< blockquote "Hello" "Test Person" />}}-->
