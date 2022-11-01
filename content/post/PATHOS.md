@@ -27,8 +27,7 @@ The project’s comparative approach and qualitative empirical detail will hopef
 The PATHOS project is hosted by the Radboud University Medical Center in Nijmegen, Netherlands. The supervisor of this project is [ Prof. Dr. Els van Wijngaarden](https://www.elsvanwijngaarden.com/).
 
 ---
-
-
+<div class="example">
 
 # FRQSC funding #
 
