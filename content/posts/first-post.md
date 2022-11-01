@@ -3,9 +3,7 @@ title: "A glossary of medical end-of-life practices"
 date: 2022-11-01
 categories:
 - Definitions
-tags:
-- End-of-life
-- Glossary
+
 keywords:
 - Euthanasia
 - Assisted suicide
