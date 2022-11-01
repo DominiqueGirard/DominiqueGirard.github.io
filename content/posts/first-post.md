@@ -1,8 +1,6 @@
 ---
 title: "A glossary of medical end-of-life practices"
 date: 2022-11-01
-categories:
-- Definitions
 
 keywords:
 - Euthanasia
@@ -23,7 +21,7 @@ Many terms may arise in end-of-life care discussions, such as ‘euthanasia,’ 
 A relatively recent literature review by [**Boivin and colleagues (2015)**](https://doi-org.ru.idm.oclc.org/10.1177/1355819614567743/) developed a descriptive classification of medical end-of-life practices, regrouping them into three distinct categories. 
 
 First, there are interventions where medical treatments that can potentially prolong life are withdrawn or withheld. Decisions to withdraw and withhold medical treatments frequently occur within the context of palliative medicine. 
-- **Withholding treatment** refers to the decision not to start or increase a treatment beyond a critical threshold following in accordance with the wishes of the patient. Perhaps the most frequent example is the do not resuscitate (DNR) order (or DNAR – do not attempt to restore). Withholding resuscitation efforts will almost inevitably result in death from a cardiac arrest should one occur. (Vincent)
+- **Withholding treatment** refers to the decision not to start or increase a treatment beyond a critical threshold following in accordance with the wishes of the patient. Perhaps the most frequent example is the do not resuscitate (DNR) order (or DNAR – do not attempt to restore). Withholding resuscitation efforts will almost inevitably result in death from a cardiac arrest should one occur. 
 
 - **Withdrawing treatment** is the removal of a life-sustaining intervention that has become futile and only prolongs the dying process, following expressed wishes of the patient or surrogate. 
 
