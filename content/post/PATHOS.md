@@ -29,7 +29,9 @@ The PATHOS project is hosted by the Radboud University Medical Center in Nijmege
 ---
 <div class="example">
 
-# FRQSC funding #
+# ***TEST ***
+
+# FRQSC funding 
 
 The PATHOS project has been funded by the [**Fonds de Recherche du Québec – Société et Culture (FRQSC)**](https://frq.gouv.qc.ca/en/society-and-culture/). 
 
@@ -42,7 +44,7 @@ The criteria for selection are based on academic excellence, quality, the resear
  ---
  #### Bibliography ####
 
- 1.	Munafo, F.R., & Smith, G.D. (2018). Robust Research Needs Many Lines of Evidence. Nature, 553(7689), 399-401. https://doi.org/10.1038/d41586-018-01023-3.
+1.	Munafo, F.R., & Smith, G.D. (2018). Robust Research Needs Many Lines of Evidence. Nature, 553(7689), 399-401. https://doi.org/10.1038/d41586-018-01023-3.
 2.	Goldberg, R., Nissim, R., An, E., & Hales, S. (2019). Impact of Medical Assistance in Dying (MAiD) on Family Caregivers. BMJ supportive & palliative care, bmjspcare-2018-001686. Advance online publication. https://doi.org/10.1136/bmjspcare-2018-001686.
 3.	Arteau, J. (2019). Le recours à l’aide médicale à mourir au Québec : l’expérience occultée des proches. (Publication No. 35102) [Master’s thesis, Université Laval]. Corpus Université Laval.
 4.	Assemblée Nationale du Québec. (2013). Projet de loi n°52 : Loi concernant les soins de fin de vie. http://www.assnat.qc.ca/fr/travaux-parlementaires/projets-loi/projet-loi-52-40-1.html.
