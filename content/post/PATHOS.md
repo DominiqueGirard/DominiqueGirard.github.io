@@ -1,4 +1,5 @@
 ---
+draft: false
 title: "Perspective And Theoretical analysis Of Suffering in the context of EAS (PATHOS)"
 date: 2022-10-27
 metaAlignment: center
@@ -29,7 +30,7 @@ The PATHOS project is hosted by the Radboud University Medical Center in Nijmege
 ---
 <div class="example">
 
-# ***TEST ***
+
 
 # FRQSC funding 
 
