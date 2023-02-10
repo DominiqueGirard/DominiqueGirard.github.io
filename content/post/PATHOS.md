@@ -28,9 +28,7 @@ The project’s comparative approach and qualitative empirical detail will hopef
 The PATHOS project is hosted by the Radboud University Medical Center in Nijmegen, Netherlands. The supervisor of this project is [ Prof. Dr. Els van Wijngaarden](https://www.elsvanwijngaarden.com/).
 
 ---
-<div class="example">
-
-
+<div class="example"> The PATHOS project has been funded by the [**Fonds de Recherche du Québec – Société et Culture (FRQSC)**](https://frq.gouv.qc.ca/en/society-and-culture/).  </div>
 
 # FRQSC funding 
 
@@ -41,6 +39,7 @@ The FRQSC's mission is to promote and provide financial support for research and
 The FRQSC grants are awarded through open competition to support the training of the next generation of experts in social sciences, humanities, arts, and literature; to foster the mobility of young researchers towards stimulating and dynamic scientific environments, such as universities and university-affiliated service centers; and to facilitate integration into new networks and the development of new collaborations. 
 
 The criteria for selection are based on academic excellence, quality, the research project's originality, and the host environment's relevance. 
+
 
  ---
  #### Bibliography ####
