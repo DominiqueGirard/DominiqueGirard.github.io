@@ -1,6 +1,6 @@
 ---
-title: "Personal Introduction"
-date: 2022-10-24
+title: "About"
+date: 2023-02-10
 ---
 
 My name is Dominique Girard, and I am a postdoctoral fellow at Radboud University Medical Center in the Netherlands. I secured a postdoctoral scholarship from the [Fonds de Recherche du Québec – Société et Culture](https://frq.gouv.qc.ca/en/society-and-culture/).
