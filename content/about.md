@@ -1,5 +1,4 @@
 ---
-weight: 1
 title: "Personal Introduction"
 date: 2022-10-24
 ---
