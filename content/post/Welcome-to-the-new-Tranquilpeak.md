@@ -1,12 +1,23 @@
 ---
-draft: false
 title: "Welcome to my website"
-date: 2023-06-15
-
+date: 2023-02-08
+categories:
+- About
+- Projects
+tags:
+- hexo theme
+- responsive
+- gravatar
+- disqus
+- google analytics
+keywords:
+- disqus
+- google
+- gravatar
 autoThumbnailImage: false
 thumbnailImagePosition: "top"
-thumbnailImage: images/triad_MAiD.jpg
-coverImage: images/triad_MAiD.jpg
+thumbnailImage: //d1u9biwaxjngwg.cloudfront.net/welcome-to-tranquilpeak/city-750.jpg
+coverImage: //d1u9biwaxjngwg.cloudfront.net/welcome-to-tranquilpeak/city.jpg
 metaAlignment: center
 ---
 Tranquilpeak is a gorgeous responsive theme for Hugo blog framework. It has many features and integrated services to improve user experience.
