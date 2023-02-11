@@ -1,19 +1,7 @@
 ---
 title: "Welcome to my website"
 date: 2023-06-15
-categories:
-- tranquilpeak
-- releases
-tags:
-- hexo theme
-- responsive
-- gravatar
-- disqus
-- google analytics
-keywords:
-- disqus
-- google
-- gravatar
+
 autoThumbnailImage: false
 thumbnailImagePosition: "top"
 thumbnailImage: //d1u9biwaxjngwg.cloudfront.net/welcome-to-tranquilpeak/city-750.jpg
