@@ -1,6 +1,7 @@
 ---
 title: "A glossary of medical end-of-life practices"
 date: 2022-11-01
+draft: true
 
 tags: 
 - Euthanasia
