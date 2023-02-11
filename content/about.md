@@ -10,5 +10,3 @@ With the continuing changes in law and health policy, we now encounter various i
 Our research engages in interdisciplinary inquiry to better understand the experience of suffering leading to a request for EAD. Our research also focuses on how patients, close ones, and healthcare professionals navigate the social and ethical challenges through the EAD process. 
 
 The PATHOS project may help build bridges between the experiences of individuals requesting EAD, their close ones and healthcare professionals. A better understanding of the diversity of experiences in the EAD context is crucial to support meaningful interventions and practices aligned with the needs of patients, their close ones, and the healthcare professionals involved.
-
-
