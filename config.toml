@@ -58,7 +58,8 @@ link = "#"
   name = "Dominique Girard, Psy.D/Ph.D"
   bio = "Postdoctoral Researcher"
   job = "Radboud UMC"
-  location = "Nijmegen, NL"
+  location = "The Netherlands"
+  email = "dominique.girard@radboudumc.nl"
   # Your Gravatar email. Overwrite `author.picture` everywhere in the blog
   # gravatarEmail = "dominique.girard@radboudumc.nl"
   # Your profile picture
@@ -74,28 +75,28 @@ link = "#"
 # ------------
 
 [[menu.main]]
-  weight = 1
-  identifier = "about"
-  name = "about"
+  weight = 2
+  identifier = "About"
+  name = "About me"
   pre = "<i class=\"sidebar-button-icon fas fa-lg fa-user\" aria-hidden=\"true\"></i>"
   url = "/about"
 [[menu.main]]
-  weight = 2
+  weight = 4
   identifier = "Publications"
   name = "Publications"
   pre = "<i class=\"sidebar-button-icon fas fa-lg fa-book\" aria-hidden=\"true\"></i>"
   url = "/publications"
 [[menu.main]]
-  weight = 3
-  identifier = "Research Projects"
-  name = "Research Projects"
-  pre = "<i class=\"sidebar-button-icon fas fa-lg fa-folder-open\" aria-hidden=\"true\"></i>"
-  url = "/post"
-[[menu.main]]
-  weight = 4
+  weight = 1
   identifier = "Blog"
   name = "Blog"
   pre = "<i class=\"sidebar-button-icon fas fa-lg fa-comment\" aria-hidden=\"true\"></i>"
+  url = "/post"
+[[menu.main]]
+  weight = 3
+  identifier = "My projects"
+  name = "My projects"
+  pre = "<i class=\"sidebar-button-icon fas fa-lg fa-folder\" aria-hidden=\"true\"></i>"
   url = "/posts"
 [[menu.main]]
   weight = 5
@@ -110,7 +111,7 @@ link = "#"
   pre = "<i class=\"sidebar-button-icon fas fa-lg fa-bookmark\" aria-hidden=\"true\"></i>"
   url = "/categories"
 [[menu.main]]
-  weight = 6
+  weight = 7
   identifier = "tags"
   name = "tags"
   pre = "<i class=\"sidebar-button-icon fas fa-tags\" aria-hidden=\"true\"></i>"
