@@ -1,5 +1,5 @@
 ---
-title: "My research projects"
+title: "My projects"
 date: 2023-02-12
 
 metaAlignment: center
