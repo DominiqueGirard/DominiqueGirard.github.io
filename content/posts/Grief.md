@@ -1,5 +1,5 @@
 ---
-draft: true
+draft: false
 title: "Grief projects"
 date: 2022-10-24
 metaAlignment: center
