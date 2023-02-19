@@ -1,5 +1,5 @@
 ---
-draft: true
+draft: false
 title: "End-of-life choices and dying trajectories"
 date: 2023-02-05
 metaAlignment: center
