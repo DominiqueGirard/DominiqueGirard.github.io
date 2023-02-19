@@ -91,13 +91,13 @@ link = "#"
   identifier = "My projects"
   name = "My projects"
   pre = "<i class=\"sidebar-button-icon fas fa-lg fa-folder\" aria-hidden=\"true\"></i>"
-  url = "/posts"
+  url = "/post"
 [[menu.main]]
   weight = 1
   identifier = "Blog"
   name = "Blog"
   pre = "<i class=\"sidebar-button-icon fas fa-lg fa-comment\" aria-hidden=\"true\"></i>"
-  url = "/post"
+  url = "/posts"
 [[menu.main]]
   weight = 5
   identifier = "archives"
