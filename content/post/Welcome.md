@@ -1,11 +1,14 @@
 ---
 title: "Welcome to my website!"
-date: 2023-02-19
-autoThumbnailImage: true
 thumbnailImagePosition: "top"
 thumbnailImage: images/Groningen.jpg
 coverImage: images/Groningen.jpg
 metaAlignment: center
+coverMeta: out
+date: 2023-02-19
+categories:
+
+tags:
 
 ---
 I have the pleasure to launch my research blog! For the next few years, I will work as a postdoctoral researcher in the Netherlands, working on exciting new projects as part of the ‘Zingeving en Ethiek rond Ouder worden en Sterven’(ZINOS) group! 
