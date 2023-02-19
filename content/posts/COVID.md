@@ -1,5 +1,5 @@
 ---
-draft: true
+draft: false
 title: "Covid-19 projects"
 date: 2023-02-04
 metaAlignment: center
