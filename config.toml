@@ -87,13 +87,13 @@ link = "#"
   pre = "<i class=\"sidebar-button-icon fas fa-lg fa-book\" aria-hidden=\"true\"></i>"
   url = "/publications"
 [[menu.main]]
-  weight = 1
+  weight = 3
   identifier = "My projects"
   name = "My projects"
   pre = "<i class=\"sidebar-button-icon fas fa-lg fa-folder\" aria-hidden=\"true\"></i>"
   url = "/posts"
 [[menu.main]]
-  weight = 3
+  weight = 1
   identifier = "Blog"
   name = "Blog"
   pre = "<i class=\"sidebar-button-icon fas fa-lg fa-comment\" aria-hidden=\"true\"></i>"
