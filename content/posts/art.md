@@ -24,4 +24,5 @@ In parallel of my main lines of research surrounding aging, end-of-life and dyin
 1. **Girard, D.**, & Bourgeois-Guérin, V. (2020, May). Dialogue Between the Poetics of Aging in Edvard Munch’s Art and Critical Gerontology. The 39th Annual International Human Science Research Conference. New York, United States. Canceled because of the Covid-19 pandemic.
 2. **Girard, D.**, & Bourgeois-Guérin, V. (2019, June). The Poetry of Anna Akhmatova : A Meditation on Hope and Suffering. The 38th Annual International Human Science Research Conference. Molde, Norway.
     - **Travel Award for International Conference from the Faculty of Human Sciences, UQAM – 700$CAN**
+  
 
