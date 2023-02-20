@@ -7,6 +7,9 @@ metaAlignment: center
 autoThumbnailImage: false
 thumbnailImagePosition: "left"
 thumbnailImage: images/triad_MAiD.jpg
+
+categories:
+- projects
 ---
 
 As part of my postdoctoral fellowship, I lead a research project called Perspectives and Theoretical Analyses of Suffering in the Euthanasia and Physician-Assisted Dying context (PATHOS). 

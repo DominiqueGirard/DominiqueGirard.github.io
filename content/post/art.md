@@ -7,6 +7,9 @@ metaAlignment: center
 autoThumbnailImage: false
 thumbnailImagePosition: "left"
 thumbnailImage: images/Art_danse.jpg
+
+categories:
+- projects
 ---
 
 As a humanistic psychologist, I believe that we can come to a greater understanding of ourselves through arts (e.g., poems, paintings, dance, photography). 
