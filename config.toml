@@ -95,7 +95,7 @@ link = "#"
 [[menu.main]]
   weight = 4
   identifier = "My projects"
-  name = "Research"
+  name = "My projects"
   pre = "<i class=\"sidebar-button-icon fas fa-lg fa-folder\" aria-hidden=\"true\"></i>"
   url = "/categories/projects"
 [[menu.main]]
