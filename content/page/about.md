@@ -10,5 +10,3 @@ My current research interests revolve around the contemporary meaning of ageing,
 While at Radboud UMC, I will be working with [ Dr. Els van Wijngaarden](https://www.elsvanwijngaarden.com/) on a research project titled Towards a better understanding of the concept of suffering in the context of euthanasia and physician assisted suicide: a longitudinal study involving patients, relatives, and physicians. My research is currently funded by the [Fonds de Recherche du Québec – Société et Culture](https://frq.gouv.qc.ca/en/society-and-culture/) as well as [Stichting de Zaaier]( https://www.stichtingdezaaier.nl/?pagina=Bestuur).   
 
 In my free time, I like to spend as much time as possible doing outdoor activities in nature. I love art in all its forms, including painting, dancing, and music! 
-
-

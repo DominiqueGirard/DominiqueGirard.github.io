@@ -18,8 +18,8 @@ defaultContentLanguage = "en-us"
 title = "Dominique Girard, Psy.D/Ph.D"
 theme = "hugo-tranquilpeak-theme"
 disqusShortname = "hugo-tranquilpeak-theme"
-# googleAnalytics = "UA-123-45"
-paginate = 20
+googleAnalytics = "UA-123-45"
+paginate = 7
 canonifyurls = true
 
 [permalinks]
@@ -75,47 +75,53 @@ link = "#"
 # ------------
 
 [[menu.main]]
+  weight = 1
+  identifier = "home"
+  name = "Home"
+  pre = "<i class=\"sidebar-button-icon fa fa-lg fa-home\"></i>"
+  url = "/"
+[[menu.main]]
   weight = 2
   identifier = "About"
   name = "About me"
   pre = "<i class=\"sidebar-button-icon fas fa-lg fa-user\" aria-hidden=\"true\"></i>"
-  url = "/about"
-[[menu.main]]
-  weight = 4
-  identifier = "Publications"
-  name = "Publications"
-  pre = "<i class=\"sidebar-button-icon fas fa-lg fa-book\" aria-hidden=\"true\"></i>"
-  url = "/publications"
+  url = "/post/welcome"
 [[menu.main]]
   weight = 3
+  identifier = "CV"
+  name = "CV"
+  pre = "<i class=\"sidebar-button-icon fa fa-lg fa-folders\"></i>"
+  url = "page/publications"
+[[menu.main]]
+  weight = 4
   identifier = "My projects"
   name = "My projects"
   pre = "<i class=\"sidebar-button-icon fas fa-lg fa-folder\" aria-hidden=\"true\"></i>"
-  url = "/posts"
+  url = "/categories/projects"
 [[menu.main]]
-  weight = 1
+  weight = 5
   identifier = "Blog"
   name = "Blog"
   pre = "<i class=\"sidebar-button-icon fas fa-lg fa-comment\" aria-hidden=\"true\"></i>"
-  url = "/post"
-[[menu.main]]
-  weight = 5
-  identifier = "archives"
-  name = "archives"
-  pre = "<i class=\"sidebar-button-icon fas fa-lg fa-archive\" aria-hidden=\"true\"></i>"
-  url = "/archives"
-[[menu.main]]
-  weight = 6
-  identifier = "categories"
-  name = "categories"
-  pre = "<i class=\"sidebar-button-icon fas fa-lg fa-bookmark\" aria-hidden=\"true\"></i>"
-  url = "/categories"
-[[menu.main]]
-  weight = 7
-  identifier = "tags"
-  name = "tags"
-  pre = "<i class=\"sidebar-button-icon fas fa-tags\" aria-hidden=\"true\"></i>"
-  url = "/tags"
+  url = "/categories/blog"
+#[[menu.main]]
+  #weight = 5
+ # identifier = "archives"
+ # name = "archives"
+ # pre = "<i class=\"sidebar-button-icon fas fa-lg fa-archive\" aria-hidden=\"true\"></i>"
+ # url = "/archives"
+#[[menu.main]]
+  #weight = 6
+  #identifier = "categories"
+  #name = "categories"
+  #pre = "<i class=\"sidebar-button-icon fas fa-lg fa-bookmark\" aria-hidden=\"true\"></i>"
+  #url = "/categories"
+#[[menu.main]]
+ # weight = 7
+ # identifier = "tags"
+ # name = "tags"
+ #pre = "<i class=\"sidebar-button-icon fas fa-tags\" aria-hidden=\"true\"></i>"
+ # url = "/tags"
 
 [[menu.links]]
   weight = 1
@@ -135,7 +141,12 @@ link = "#"
   name = "Linkedin"
   pre = "<i class=\"sidebar-button-icon fab fa-linkedin\" aria-hidden=\"true\"></i>"
   url = "https://www.linkedin.com/in/dominique-girard-41ba9812b/"
-
+[[menu.links]]
+  weight = 4
+  identifier = "github"
+  name = "DominiqueGirard"
+  pre = "<i class=\"sidebar-button-icon fa fa-lg fa-github-alt\"></i>"
+  url = "https://github.com/DominiqueGirard"
 # -------------
 # Customization
 # -------------
@@ -143,7 +154,7 @@ link = "#"
   # -----------
   # Description
   # -----------
-  description = "Hugo tranquilpeak theme demo"
+  description = "Dominique Girard"
 
   # ------------------
   # Syntax highlighter
@@ -165,7 +176,7 @@ link = "#"
   # Posts related configuration
   # ---------------------------
   # Global keywords configuration. Following keywords will be add to every pages
-  keywords = ["blog", "scientist", "personal"]
+  #keywords = ["blog", "scientist", "personal"]
 
   # Hide sidebar on all article page to let article take full width to improve reading, and enjoy wide images and cover images. (true: enable, false: disable)
   clearReading = true
@@ -316,16 +327,15 @@ link = "#"
   # Comment and uncomment to enable or disable sharing options
   # If you wanna add a sharing option, read user documentation :
   # Tranquilpeak configuration > Theme configuration > sharing-options
-  [[params.sharingOptions]]
-    name = "Facebook"
-    icon = "fab fa-facebook-square"
-    url = "https://www.facebook.com/sharer/sharer.php?u=%s"
+  #[[params.sharingOptions]]
+    #name = "Facebook"
+   # icon = "fab fa-facebook-square"
+    #url = "https://www.facebook.com/sharer/sharer.php?u=%s"
 
   [[params.sharingOptions]]
     name = "Twitter"
     icon = "fab fa-twitter"
     url = "https://twitter.com/intent/tweet?text=%s"
-
 
 #  [[params.sharingOptions]]
 #    name = "Whatsapp"
@@ -337,20 +347,6 @@ link = "#"
     icon = "fab fa-linkedin"
     url = "https://www.linkedin.com/sharing/share-offsite/?url=%s"
 
-#  [[params.sharingOptions]]
-#    name = "Reddit"
-#    icon = "fab fa-reddit"
-#    url = "https://www.reddit.com/submit?url=%s"
-#
-#  [[params.sharingOptions]]
-#    name = "Pocket"
-#    icon = "fab fa-get-pocket"
-#    url = "https://getpocket.com/edit?url=%s"
-#
-#  [[params.sharingOptions]]
-#    name = "Hacker News"
-#    icon = "fab fa-hacker-news"
-#    url = "https://news.ycombinator.com/submitlink?u=%s"
 
   # -------------------
   # Integrated services
@@ -370,23 +366,23 @@ link = "#"
   # --------------
   # Comment system
   # --------------
-  [params.comment]
-    [params.comment.disqus]
-      enable = true
-      shortname = "hugo-tranquilpeak-theme"
-    [params.comment.gitalk]
-      enable = false
+  #[params.comment]
+    #[params.comment.disqus]
+      #enable = true
+      #shortname = "hugo-tranquilpeak-theme"
+    #[params.comment.gitalk]
+     # enable = false
       # clientId =
       # clientSecret =
       # owner =
       # repo =
       # See all options: https://github.com/gitalk/gitalk#options
-      [params.comment.gitalk.options]
-        language = "en"
-        perPage = 10
-        distractionFreeMode = false
-        enableHotKey = true
-        pagerDirection = "first"
+      #[params.comment.gitalk.options]
+       #language = "en"
+        #perPage = 10
+        #distractionFreeMode = false
+        #enableHotKey = true
+        #pagerDirection = "first"
 
   # --------------------
   # Header configuration
