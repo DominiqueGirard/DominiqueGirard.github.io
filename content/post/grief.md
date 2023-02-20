@@ -7,6 +7,9 @@ metaAlignment: center
 autoThumbnailImage: false
 thumbnailImagePosition: "left"
 thumbnailImage: images/hands.jpg
+
+categories:
+- projects
 ---
 
 Labore irure ut irure excepteur cillum id nulla. Cillum officia minim ut anim fugiat aute ipsum id ullamco aliqua in. Adipisicing magna sunt laborum veniam et. 

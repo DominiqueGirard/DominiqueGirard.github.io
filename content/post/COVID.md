@@ -7,6 +7,9 @@ metaAlignment: center
 autoThumbnailImage: false
 thumbnailImagePosition: "left"
 thumbnailImage: images/COVID.jpg
+
+categories:
+- projects
 ---
 My projects regarding the lived-experience of healthcare professionals and caregivers during the Covid-19 pandemic take root in inspiring collaborations with [Valérie Bourgeois-Guérin, Ph.D.](https://professeurs.uqam.ca/professeur/bourgeois-guerin.valerie/), and [Mélanie Vachon, Ph.D.](https://professeurs.uqam.ca/professeur/vachon.melanie/), two researchers from [Université du Québec à Montréal](https://uqam.ca).
 <!--more-->

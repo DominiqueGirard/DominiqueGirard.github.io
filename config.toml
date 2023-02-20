@@ -85,7 +85,7 @@ link = "#"
   identifier = "About"
   name = "About me"
   pre = "<i class=\"sidebar-button-icon fas fa-lg fa-user\" aria-hidden=\"true\"></i>"
-  url = "/post/welcome"
+  url = "/post/Welcome"
 [[menu.main]]
   weight = 3
   identifier = "CV"
