@@ -88,9 +88,9 @@ link = "#"
   url = "/page/About"
 [[menu.main]]
   weight = 3
-  identifier = "CV"
-  name = "CV"
-  pre = "<i class=\"sidebar-button-icon fa fa-lg fa-smile-o\"></i>"
+  identifier = "Publications"
+  name = "Publications"
+  pre = "<i class=\"sidebar-button-icon fa fa-lg fa-smile\"></i>"
   url = "page/publications"
 [[menu.main]]
   weight = 4
@@ -144,8 +144,8 @@ link = "#"
 [[menu.links]]
   weight = 4
   identifier = "github"
-  name = "DominiqueGirard"
-  pre = "<i class=\"sidebar-button-icon fa fa-lg fa-github-alt\"></i>"
+  name = "Github"
+  pre = "<i class=\"sidebar-button-icon fab fa-brands fa-github\"></i>"
   url = "https://github.com/DominiqueGirard"
 # -------------
 # Customization
