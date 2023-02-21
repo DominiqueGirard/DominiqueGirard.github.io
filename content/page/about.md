@@ -28,7 +28,7 @@ Through my academic journey, I also engaged in diverse teaching, supervision and
 
 Finally, I developed and taught an undergraduate, 45-hour course on quantitative research methods in psychology. I received excellent comments from my students, highlighting the relevance of this course to develop their critical thinking. Consequently, I was offered to deliver this course during three consecutive sessions. 
 
-In sum, these experiences shows my enthusiasm for teamwork, vulgarize complex information for general public and research dissemination, all contributing to create a sphere of influence within my future research program, the international research community and society at large.
+In sum, these experiences shows my enthusiasm for teamwork, vulgarizing complex information for general public and research dissemination, all contributing to create a sphere of influence within my future research program, the international research community and society at large.
 
 
 ### Education & appointments
