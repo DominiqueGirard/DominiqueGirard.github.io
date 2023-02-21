@@ -1,6 +1,6 @@
 ---
 title: "About"
-date: 2023-02-10
+#date: 2023-02-10
 ---
 
 ### Why studying Death and Dying? 
@@ -33,19 +33,17 @@ In sum, these experiences shows my enthusiasm for teamwork, vulgarize complex in
 
 ### Education & appointments
 ###### 2021 - Present 
-Postdoctoral researcher, Anesthesiology, Pain and Palliative Medicine, RadboudUMC
-Supervisor: Dr. Els van Wijngaarden
+Postdoctoral researcher, Anesthesiology, Pain and Palliative Medicine, RadboudUMC Supervisor: Dr. Els van Wijngaarden
 Contributing to inspiring projects including PATHOS project, art-based projects and COVID & grief projects
 
 ###### 2014 - 2022
-Psy.D/Ph.D., Psychology, Université du Québec à Montréal
+Psy.D/Ph.D., Psychology, Université du Québec à Montréal 
 Supervisor: Dr. Isabelle Soulières
 Nomination best thesis of the department    
                        
 ###### 2017 – 2017 
-Visiting research intern, Institute of Education, University College London
-Supervisor: Dr. Liz Pellicano
+Visiting research intern, Institute of Education, University College London Supervisor: Dr. Liz Pellicano
 
 ###### 2011 - 2014
-Bachelor of Science, Psychology, Université de Montréal
+Bachelor of Science, Psychology, Université de Montréal 
 Honours’ supervisor: Dr. Bianca d’Antono
