@@ -33,17 +33,19 @@ In sum, these experiences shows my enthusiasm for teamwork, vulgarizing complex 
 
 ### Education & appointments
 ###### 2021 - Present 
-Postdoctoral researcher, Anesthesiology, Pain and Palliative Medicine, RadboudUMC Supervisor: Dr. Els van Wijngaarden
-Contributing to inspiring projects including PATHOS project, art-based projects and COVID & grief projects
+Postdoctoral researcher, Anesthesiology, Pain and Palliative Medicine, RadboudUMC 
+- Supervisor: Dr. Els van Wijngaarden
+- Contributing to inspiring projects including PATHOS project, art-based projects and COVID & grief projects
 
 ###### 2014 - 2022
 Psy.D/Ph.D., Psychology, Université du Québec à Montréal 
-Supervisor: Dr. Isabelle Soulières
-Nomination best thesis of the department    
+- Supervisor: Dr. Isabelle Soulières
+- Nomination best thesis of the department    
                        
 ###### 2017 – 2017 
-Visiting research intern, Institute of Education, University College London Supervisor: Dr. Liz Pellicano
+Visiting research intern, Institute of Education, University College London 
+- Supervisor: Dr. Liz Pellicano
 
 ###### 2011 - 2014
 Bachelor of Science, Psychology, Université de Montréal 
-Honours’ supervisor: Dr. Bianca d’Antono
+- Honours’ supervisor: Dr. Bianca d’Antono
