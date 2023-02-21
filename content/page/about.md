@@ -1,6 +1,6 @@
 ---
 title: "About"
-#date: 2023-02-10
+date: 2023-02-10
 ---
 
 ### Why studying Death and Dying? 
