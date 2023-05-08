@@ -24,6 +24,7 @@ I am very happy to accounce that I will be presenting (in French!) the results o
 <!--more-->
 
 **About the conference**
+
 ***Title***  Better understanding the experience of suffering in the context of medical aid in dying: a meta-synthesis combining the perspective of patients, their loved ones and health professionals
 
 ***Date*** Thursday, May 18, 2023, from 12:15 to 1:15 pm
