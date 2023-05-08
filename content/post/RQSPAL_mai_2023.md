@@ -1,6 +1,6 @@
 ---
 title: "Online Webinar with Dominique Girard: A meta-synthesis about the meaning of suffering in the EAS context"
-date: 2023-05-18
+date: 2023-05-07
 draft: false
 
 categories:
