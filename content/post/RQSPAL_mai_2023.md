@@ -20,7 +20,7 @@ autoThumbnailImage: true
 thumbnailImagePosition: "left"
 thumbnailImage: images/RQSPAL_Mai2023.jpg
 ---
-I am very happy to accounce that I will be presenting (in French!) the results of my meta-synthesis about the experience of suffering in the EAS context during the next online webinar of [RQSPAL](https://www.recherchesoinspalliatifs.ca/en/home/).
+I am very happy to announce that I will be presenting (in French!) the results of my meta-synthesis about the experience of suffering in the EAS context during the next online webinar of [RQSPAL](https://www.recherchesoinspalliatifs.ca/en/home/).
 <!--more-->
 
 **About the conference**
