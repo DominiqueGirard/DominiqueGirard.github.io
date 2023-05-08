@@ -16,7 +16,7 @@ keywords:
 - Webinar
 metaAlignment: center
 
-autoThumbnailImage: false
+autoThumbnailImage: true
 thumbnailImagePosition: "left"
 thumbnailImage: images/RQSPAL_Mai2023.jpg
 ---
