@@ -25,9 +25,10 @@ The PATHOS project has been funded by the [**Fonds de Recherche du Québec – S
  #### Resulting Publications ####
 
 **Oral Presentations**
-1. Symposium : Girard. D., Lavoie, D., Vin, E. (2022, September). La Souffrance en contexte d’aide médicale à mourir.   Le 1er colloque interdisciplinaire sur la douleur et la souffrance. Montreal, Canada.
+1. **Girard, D.**, Tuinema, M., Dargis, L., van Wijngaarden, E. (2023, May). Mieux comprendre l’expérience de la souffrance en contexte d’aide médicale à mourir : une méta-synthèse alliant la perspective des patient·es, de leurs proches et des professionnel·les de la santé. Conférence scientifique mensuelle du RQSPAL et du CRISE. Montreal, Canada. 
+   
+2. Symposium : **Girard. D.**, Lavoie, D., Vin, E. (2022, September). La Souffrance en contexte d’aide médicale à mourir.   Le 1er colloque interdisciplinaire sur la douleur et la souffrance. Montreal, Canada.
 
-1. Girard, D., Stolk, M., van Wijngaarden, E. (2022, June). Unraveling the meaning of suffering in the context of euthanasia and assisted suicide: a systematic review. The 39th Annual International Human Science Research Conference. New York, United States.
+3. **Girard, D.**, Stolk, M., van Wijngaarden, E. (2022, June). Unraveling the meaning of suffering in the context of euthanasia and assisted suicide: a systematic review. The 39th Annual International Human Science Research Conference. New York, United States.
 
-**Knowledge Transfer**
-1. Girard, D., Tuinema, M., Dargis, L., van Wijngaarden, E. (2023, January). Unraveling the Meaning of Suffering in the Context of Euthanasia and Assisted Suicide. Science Café for healthcare professionals and researchers at the Department of Anesthesiology, Pain and Palliative Medicine. Radboud UMC, Nijmegen, The Netherlands. 
+4. **Girard, D.**, Tuinema, M., Dargis, L., van Wijngaarden, E. (2023, January). Unraveling the Meaning of Suffering in the Context of Euthanasia and Assisted Suicide. Science Café for healthcare professionals and researchers at the Department of Anesthesiology, Pain and Palliative Medicine. Radboud UMC, Nijmegen, The Netherlands. 
