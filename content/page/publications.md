@@ -46,6 +46,7 @@ Over the past 5 years, I have presented and collaborated to a total of 16 oral p
 
 #### ORAL PRESENTATIONS
 ###### International conferences
+1. **Girard, D.**, van Zutven, M.A.M., van Wijngaarden, E. (Accepted - 2023, August). Dying in the Margins a Hermeneutical Reflection on Liminality and Paradoxes. Abstract Book of the 40th Annual International Human Science Research Conference (IHSRC). Tokyo, Japan.
 1. **Girard, D.**, Stolk, M., van Wijngaarden, E. (2022, June). Unraveling the meaning of suffering in the context of euthanasia and assisted suicide: a systematic review. The 39th Annual International Human Science Research Conference. New York, United States. 
 3. **Girard, D.**, & Bourgeois-Guérin, V. (2020, May). Dialogue Between the Poetics of Aging in Edvard Munch’s Art and Critical Gerontology. The 39th Annual International Human Science Research Conference. New York, United States. Canceled because of the Covid-19 pandemic.
 2. **Girard, D.**, & Bourgeois-Guérin, V. (2019, June). The Poetry of Anna Akhmatova : A Meditation on Hope and Suffering. The 38th Annual International Human Science Research Conference. Molde, Norway.
@@ -61,6 +62,7 @@ Over the past 5 years, I have presented and collaborated to a total of 16 oral p
 1. Courchesne, V., Nader, A.-M., **Girard, D.**, Bouchard, V., Danis, E., & Soulières, I. (2017, March). Évaluation et optimisation du potentiel des enfants autistes : la recherche au service de l’intervention. Le 39e congrès annuel de la Société Québécoise pour la Recherche en Psychologie. Montreal, Canada. 
 
 ###### Conferences at the host university or research institute
+1. **Girard, D.**, Tuinema, M., Dargis, L., van Wijngaarden, E. (2023, May). Mieux comprendre l’expérience de la souffrance en contexte d’aide médicale à mourir : une méta-synthèse alliant la perspective des patient·es, de leurs proches et des professionnel·les de la santé. Conférence scientifique mensuelle du RQSPAL et du CRISE. Montreal, Canada. 
 1. **Girard, D.** (2018, May). L’utilisation de la technologie au profit des apprentissages et habiletés sociales chez les enfants autistes. Colloque scientifique de l’hôpital Rivière-des-Prairies, une mise au point du congrès International Meeting for Autism Research. Montreal, Canada. 4. Girard, D. (2017, November). La reconnaissance d’émotions chez les enfants autistes : Une comparaison des expressions faciales humaines et de celles d’un robot. La 5e journée scientifique neuroQAM 2017. Montreal, Canada. 
 3. **Girard, D.** (2017, June). Vers une meilleure compréhension des défis auxquels font face les individus TSA et leurs impacts sur la vie quotidienne. Colloque scientifique de l’hôpital Rivière-des-Prairies, une mise au point du congrès International Meeting for Autism Research. Montreal, Canada. 
 2. **Girard, D.**, & Courchesne, V. (2016, June). L’utilisation des tests d’intelligence et de fonctionnement adaptatif chez les enfants ayant un trouble du spectre de l’autisme. Colloque scientifique de l’hôpital Rivière-des-Prairies, une mise au point du congrès International Meeting for Autism Research, Montreal, Canada. 

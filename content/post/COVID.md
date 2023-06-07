@@ -18,7 +18,11 @@ The COVID-19 pandemic brought important challenges regarding accompagniment, end
 #### Resulting Publications ####
 
 **Peer-Reviewed Articles**
-1. Bourgeois-Guérin, V., **Girard, D.**, Martin, C., Sussman, T., Gagnon, E., Simard, J., Van Pevenage., & Durivage., P. (2023). It Was Like Wartime: End-Of-Life and Bereavement in Long-Term Care Homes and Assisted Living Facilities During the COVID-19 Pandemic. Frontières. 33 (2). https://doi.org/10.7202/1095218ar.
+1. Vachon, M., Ummel, D., Guité-Verret, A., Lessard, E., **Girard, D**. (2023). A phenomenological and clinical description of pandemic grief: How to adapt bereavement services? Palliative Medicine Reports. 4 (1), 53-63. https://doi.org/10.1089/pmr.2022.0060
+   
+2. Vachon, M., Guité-Verret, A., Ummel, D., **Girard, D.**, Lessard, E. (2023). “I couldn’t”: A phenomenological exploration of ethical tensions experienced by bereaved family members during the pandemic. International Journal of Qualitative Studies on Health and Well-being. 18(1). 2186337. https://doi.org/10.1080/17482631.2023.21863371. 
+   
+3. Bourgeois-Guérin, V., **Girard, D.**, Martin, C., Sussman, T., Gagnon, E., Simard, J., Van Pevenage., & Durivage., P. (2023). It Was Like Wartime: End-Of-Life and Bereavement in Long-Term Care Homes and Assisted Living Facilities During the COVID-19 Pandemic. Frontières. 33 (2). https://doi.org/10.7202/1095218ar.
 
 **Oral presentations**
 1. Bourgeois-Guérin, V., **Girard, D.**, Martin, C., et al. (2022, March). Décès et Deuil en RPA et CHSLD en contexte de pandémie de COVID-19. Conférences CREGES. Montreal, Canada.
