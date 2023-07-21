@@ -1,36 +1,39 @@
 ---
 weight: 2
 title: "Publications"
-date: 2023-06-07
+date: 2023-07-21
 ---
 
 <!--more-->
 
 #### Articles (peer-reviewed)
 
-1. Guité-Verret, A., Vachon, M., **Girard, D.** (Accepted). Intentional Presence and the Accompaniment of Dying Patients. Medicine, Health Care and Philosophy.
+1. Roy, G., Guité-Verret, A., Vachon, M., **Girard, D.** (Accepted). L’expérience de la compassion chez les soignants en soins palliatifs en contexte de pandémie. Les Cahiers francophones de soins palliatifs.
    
-2. Laperle, P., & **Girard, D.** (In press). Accompagner les deuils en contexte d’aide médicale à mourir : mettre en mot l’expérience. Psychologie Québec.
-
-3. **Girard, D.**, Courchesne, V., Cimon-Paquet, C., Jacques, C., & Soulières, I.  (2023)   Trajectories and perceptual precursor s of intelligence in minimally verbal autistic children from preschool to school age. Autism.  https://doi-org.ru.idm.oclc.org/10.1177/13623613231166189
+2. Laperle, P., **Girard, D.** (2023). Accompagner les deuils en contexte d’aide médicale à mourir : mettre en mot l’expérience. Psychologie Québec. 
    
-4. Vachon, M., Ummel, D., Guité-Verret, A., Lessard, E., **Girard, D**. (2023). A phenomenological and clinical description of pandemic grief: How to adapt bereavement services? Palliative Medicine Reports. 4 (1), 53-63. https://doi.org/10.1089/pmr.2022.0060
+3. Guité-Verret, A., Vachon, M., & **Girard, D.** (2023). Intentional presence and the accompaniment of dying patients. Medicine, health care, and philosophy, 10.1007/s11019-023-10161-z. Advance online publication. https://doi.org/10.1007/s11019-023-10161-z
    
-5. Vachon, M., Guité-Verret, A., Ummel, D., **Girard, D.**, Lessard, E. (2023). “I couldn’t”: A phenomenological exploration of ethical tensions experienced by bereaved family members during the pandemic. International Journal of Qualitative Studies on Health and Well-being. 18(1). 2186337. https://doi.org/10.1080/17482631.2023.2186337
+4. **Girard, D.**, Courchesne, V., Cimon-Paquet, C., Jacques, C., & Soulières, I.  (2023). Visual abilities and exploration behaviors as predictors of intelligence in autistic children from preschool to school age. Autism. https://doi-org.ru.idm.oclc.org/10.1177/13623613231166189
 
-6. Bourgeois-Guérin, V., **Girard, D.**, Martin, C., Sussman, T., Gagnon, E., Simard, J., Van Pevenage., & Durivage., P. (2023). It Was Like Wartime: End-Of-Life and Bereavement in Long-Term Care Homes and Assisted Living Facilities During the COVID-19 Pandemic. Frontières. 33 (2). https://doi.org/10.7202/1095218ar.
    
-7.  **Girard, D.**, & Bourgeois-Guérin, V. (2022). Hope and Suffering: a Hermeneutical and Existential Analysis of Akhmatova’s Requiem. The Humanistic Psychologist. 55 (1), 55-69.  https://doi.org/10.1037/hum0000178
-
-8.  **Girard, D.**, Courchesne, V., Degré-Pelletier, J., Letendre, C., & Soulières, I. (2022). Assessing global developmental delay across instruments in minimally verbal preschool autistic children: the importance of a multi-method and multi-informant approach. Autism Research, 15 (1), 103-116. https://doi.org/10.1002/aur.2630
-
-9.  Courchesne, V., **Girard, D.**, Jacques, C., & Soulières, I. (2019). Assessing intelligence at autism diagnosis: mission impossible? Testability and cognitive profile of autistic pre-schoolers. Journal of Autism and Developmental Disorders. 49(3), 845-856. https://doi.org/10.1007/s10803-018-3786-4
-
-10. Bourdon, D.-E., El-Baalbaki, G., **Girard, D.**, Lapointe-Blackburn, E., & Guay, S. (2018). Schemas and Coping Strategies in CognitiveBehavioral Therapy for PTSD: A Systematic Review. European Journal of Trauma & Dissociation. 3(1), 33-47. https://doi.org/10.1016/j.ejtd.2018.09.005
-
-11. **Girard, D.**, Tardif, J.-C., Boisclair-Demarble, J., & D’Antono, B. (2016). Trait hostility and acute inflammatory responses to stress in the laboratory. PlosONE, 11(6).   https://doi.org/10.1371/journal.pone.0156329
+5. Vachon, M., Ummel, D., Guité-Verret, A., Lessard, E., **Girard, D**. (2023). A phenomenological and clinical description of pandemic grief: How to adapt bereavement services? Palliative Medicine Reports. 4 (1), 53-63. https://doi.org/10.1089/pmr.2022.0060
    
-12. Courchesne, V., Nader, A.-M., **Girard, D.**, Bouchard, V., Danis, E., & Soulières, I. (2016). Le profil cognitif au service des apprentissages : optimiser le potentiel des enfants sur le spectre de l’autisme. Revue québécoise de psychologie. 37(2), 1-39. https://doi.org/10.7202/1040041ar
+6. Vachon, M., Guité-Verret, A., Ummel, D., **Girard, D.**, Lessard, E. (2023). “I couldn’t”: A phenomenological exploration of ethical tensions experienced by bereaved family members during the pandemic. International Journal of Qualitative Studies on Health and Well-being. 18(1). 2186337. https://doi.org/10.1080/17482631.2023.2186337
+
+7. Bourgeois-Guérin, V., **Girard, D.**, Martin, C., Sussman, T., Gagnon, E., Simard, J., Van Pevenage., & Durivage., P. (2023). It Was Like Wartime: End-Of-Life and Bereavement in Long-Term Care Homes and Assisted Living Facilities During the COVID-19 Pandemic. Frontières. 33 (2). https://doi.org/10.7202/1095218ar.
+   
+8.  **Girard, D.**, & Bourgeois-Guérin, V. (2022). Hope and Suffering: a Hermeneutical and Existential Analysis of Akhmatova’s Requiem. The Humanistic Psychologist. 55 (1), 55-69.  https://doi.org/10.1037/hum0000178
+
+9.  **Girard, D.**, Courchesne, V., Degré-Pelletier, J., Letendre, C., & Soulières, I. (2022). Assessing global developmental delay across instruments in minimally verbal preschool autistic children: the importance of a multi-method and multi-informant approach. Autism Research, 15 (1), 103-116. https://doi.org/10.1002/aur.2630
+
+10.  Courchesne, V., **Girard, D.**, Jacques, C., & Soulières, I. (2019). Assessing intelligence at autism diagnosis: mission impossible? Testability and cognitive profile of autistic pre-schoolers. Journal of Autism and Developmental Disorders. 49(3), 845-856. https://doi.org/10.1007/s10803-018-3786-4
+
+11. Bourdon, D.-E., El-Baalbaki, G., **Girard, D.**, Lapointe-Blackburn, E., & Guay, S. (2018). Schemas and Coping Strategies in CognitiveBehavioral Therapy for PTSD: A Systematic Review. European Journal of Trauma & Dissociation. 3(1), 33-47. https://doi.org/10.1016/j.ejtd.2018.09.005
+
+12. **Girard, D.**, Tardif, J.-C., Boisclair-Demarble, J., & D’Antono, B. (2016). Trait hostility and acute inflammatory responses to stress in the laboratory. PlosONE, 11(6).   https://doi.org/10.1371/journal.pone.0156329
+   
+13. Courchesne, V., Nader, A.-M., **Girard, D.**, Bouchard, V., Danis, E., & Soulières, I. (2016). Le profil cognitif au service des apprentissages : optimiser le potentiel des enfants sur le spectre de l’autisme. Revue québécoise de psychologie. 37(2), 1-39. https://doi.org/10.7202/1040041ar
 
 
 
