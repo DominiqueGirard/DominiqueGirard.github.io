@@ -20,7 +20,7 @@ keywords:
   
 metaAlignment: center
 
-autoThumbnailImage: false
+autoThumbnailImage: true
 thumbnailImagePosition: "left"
 thumbnailImage: images/Loneliness_Dying.png
 ---
