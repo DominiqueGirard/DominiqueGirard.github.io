@@ -24,7 +24,7 @@ autoThumbnailImage: false
 thumbnailImagePosition: "left"
 thumbnailImage: images/Loneliness_Dying.png
 ---
-Are you interested in learning more about topics related to sociology, old age and death? Check out “The Loneliness of the Dying” written by acclaimed sociologist, Dr. Lori Brotto.
+Are you interested in learning more about topics related to sociology, old age and death? Check out “The Loneliness of the Dying” written by acclaimed sociologist, Norbert Elias.
 <!--more-->
 
 In this book, the sociologist Norbert Elias highlights one of the greatest problems facing people of all ages in our western and contemporary society. According to him, although people are dying more hygienically than ever before, they are also dying in almost complete emotional isolation. In this theoretical essay, Elias describes special features of our contemporary society  that may contribute to the phenomenon of loneliness among the dying. 
