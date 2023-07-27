@@ -27,7 +27,7 @@ thumbnailImage: images/Loneliness_Dying.png
 Are you interested in learning more about topics related to sociology, old age and death? Check out “The Loneliness of the Dying” written by acclaimed sociologist, Norbert Elias.
 <!--more-->
 
-In this book, the sociologist Norbert Elias highlights one of the greatest problems facing people of all ages in our western and contemporary society. According to him, although people are dying more hygienically than ever before, they are also dying in almost complete emotional isolation. In this theoretical essay, Elias describes special features of our contemporary society  that may contribute to the phenomenon of loneliness among the dying. 
+In this book, the sociologist Norbert Elias highlights one of the greatest problems facing people of all ages in our western and contemporary society. According to him, although people are dying more hygienically than ever before, they are also dying in almost complete emotional isolation. In this theoretical essay, Elias describes special features of our contemporary society that may contribute to the phenomenon of loneliness among the dying. 
 
 The sight of the dying is no longer common. With the modernisation of our contemporary society, we have lost touch with the process of dying and the involvement of others in an individual's death is becoming less common.  Elias suggests that as we distance ourselves from the phenomenon of death, people who are dying are increasingly pushed away from social life and are at greater risk of isolation. Confronted with the discomfort of the living in the presence of the dying, the latter are already abandoned. 
    
