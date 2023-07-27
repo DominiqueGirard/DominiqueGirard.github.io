@@ -1,6 +1,6 @@
 ---
 title: "Extension to my FRQSC scholarship to publicize and promote the results of my postdoctoral research "
-date: 2023-07-24
+date: 2023-07-27
 draft: false
 
 categories:
