@@ -17,7 +17,7 @@ autoThumbnailImage: false
 thumbnailImagePosition: "left"
 thumbnailImage: images/Japon.jpg
 ---
-In August 2023, I had the pleasure to present the results of a very special art-based project at the [**International Human Science Research Conference **](https://ihsrc2023tokyo.jp). 
+In August 2023, I had the pleasure to present the results of a very special art-based project at the [**International Human Science Research Conference**](https://ihsrc2023tokyo.jp). 
 
 <!--more-->
 
