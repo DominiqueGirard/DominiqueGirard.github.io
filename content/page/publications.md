@@ -8,9 +8,9 @@ date: 2023-07-21
 
 #### Articles (peer-reviewed)
 
-1. Roy, G., Guité-Verret, A., Vachon, M., **Girard, D.** (Accepted). L’expérience de la compassion chez les soignants en soins palliatifs en contexte de pandémie. Les Cahiers francophones de soins palliatifs.
+1. Roy, G., Guité-Verret, A., Vachon, M., **Girard, D.** (2023). L’expérience de la compassion chez les soignants en soins palliatifs en contexte de pandémie. Les Cahiers francophones de soins palliatifs. 23 (1), 31-45. https://doi.org/10.7202/1105745ar.
    
-2. Laperle, P., **Girard, D.** (2023). Accompagner les deuils en contexte d’aide médicale à mourir : mettre en mot l’expérience. Psychologie Québec. 
+2. Laperle, P., **Girard, D.** (2023). Accompagner les deuils en contexte d’aide médicale à mourir : mettre en mot l’expérience. Psychologie Québec. https://www.ordrepsy.qc.ca/-/accompagner-les-endeuillés-en-contexte-d-aide-médicale-à-mourir
    
 3. Guité-Verret, A., Vachon, M., & **Girard, D.** (2023). Intentional presence and the accompaniment of dying patients. Medicine, health care, and philosophy, 10.1007/s11019-023-10161-z. Advance online publication. https://doi.org/10.1007/s11019-023-10161-z
    
