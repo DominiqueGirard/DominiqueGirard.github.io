@@ -40,7 +40,7 @@ Postdoctoral researcher, Anesthesiology, Pain and Palliative Medicine, RadboudUM
 ###### 2014 - 2022
 Psy.D/Ph.D., Psychology, Université du Québec à Montréal 
 - Supervisor: Dr. Isabelle Soulières
-- Nomination best thesis of the department    
+- Finalist for the best PhD Thesis in the Humanities and Social Sciences Faculty 2022  
                        
 ###### 2017 – 2017 
 Visiting research intern, Institute of Education, University College London 
