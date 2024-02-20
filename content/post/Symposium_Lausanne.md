@@ -17,7 +17,7 @@ autoThumbnailImage: false
 thumbnailImagePosition: "left"
 thumbnailImage: images/lausanne.jpg
 ---
- Together with (Ralf Jox (University of Lausanne))[https://www.chuv.ch/en/cspg/cspg-home/about-us/our-staff/ralf-j-jox], I am organizing a symposium in Lausanne about the experience of suffering in the end-of-life context. This symposium is part of my knowledge mobilization plan funded by the [**Fonds de Recherche du Québec – Société et Culture (FRQSC)**](https://frq.gouv.qc.ca/en/society-and-culture/).
+ Together with [Ralf Jox](https://www.chuv.ch/en/cspg/cspg-home/about-us/our-staff/ralf-j-jox) (University of Lausanne), I am organizing a symposium in Lausanne about the experience of suffering in the end-of-life context. This symposium is part of my knowledge mobilization plan funded by the [**Fonds de Recherche du Québec – Société et Culture (FRQSC)**](https://frq.gouv.qc.ca/en/society-and-culture/).
 
 <!--more-->
 
