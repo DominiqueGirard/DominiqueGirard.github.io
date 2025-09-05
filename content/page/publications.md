@@ -8,32 +8,40 @@ date: 2023-07-21
 
 #### Articles (peer-reviewed)
 
-1. Roy, G., Guité-Verret, A., Vachon, M., **Girard, D.** (2023). L’expérience de la compassion chez les soignants en soins palliatifs en contexte de pandémie. Les Cahiers francophones de soins palliatifs. 23 (1), 31-45. https://doi.org/10.7202/1105745ar.
+1. **Girard, D.**, Tuinema, M., Dargis, L., van Wijngaarden, E. (2025). The meaning of suffering in the context of euthanasia and assisted suicide: A Meta-Ethnography. Mortality. https://doi.org/10.1080/13576275.2025.2509510
+
+2. Thölking, T. W., **Girard, D.**, Engels, Y., Schoon, Y., Van Wijngaarden, E. (2025). Considerations of older adults with multimorbidity when facing healthcare choices: a qualitative systematic review. Patient Education and Counseling. https://doi.org/10.1016/j.pec.2025.109194 
+
+3. **Girard, D.**, Van Zutven, M., Van Wijngaarden, E. (2025). Dying in the Margins: A Hermeneutical and Phenomenological Reflection on Liminality and Paradoxes. The Humanistic Psychologist. Advance online publication. https://dx.doi.org/10.1037/hum0000373 
+
+4. **Girard, D.**, Guité-Verret, A., Lavoie, D., Vachon, M. (2024). Au-delà de la rémission : accompagner les patients ayant un historique de cancer. Psychologie Québec. 
+
+5. Roy, G., Guité-Verret, A., Vachon, M., **Girard, D.** (2023). L’expérience de la compassion chez les soignants en soins palliatifs en contexte de pandémie. Les Cahiers francophones de soins palliatifs. 23 (1), 31-45. https://doi.org/10.7202/1105745ar.
    
-2. Laperle, P., **Girard, D.** (2023). Accompagner les deuils en contexte d’aide médicale à mourir : mettre en mot l’expérience. Psychologie Québec. https://www.ordrepsy.qc.ca/-/accompagner-les-endeuillés-en-contexte-d-aide-médicale-à-mourir
+6. Laperle, P., **Girard, D.** (2023). Accompagner les deuils en contexte d’aide médicale à mourir : mettre en mot l’expérience. Psychologie Québec. https://www.ordrepsy.qc.ca/-/accompagner-les-endeuillés-en-contexte-d-aide-médicale-à-mourir
    
-3. Guité-Verret, A., Vachon, M., & **Girard, D.** (2023). Intentional presence and the accompaniment of dying patients. Medicine, health care, and philosophy, 10.1007/s11019-023-10161-z. Advance online publication. https://doi.org/10.1007/s11019-023-10161-z
+7. Guité-Verret, A., Vachon, M., & **Girard, D.** (2023). Intentional presence and the accompaniment of dying patients. Medicine, health care, and philosophy, 10.1007/s11019-023-10161-z. Advance online publication. https://doi.org/10.1007/s11019-023-10161-z
    
-4. **Girard, D.**, Courchesne, V., Cimon-Paquet, C., Jacques, C., & Soulières, I.  (2023). Visual abilities and exploration behaviors as predictors of intelligence in autistic children from preschool to school age. Autism. https://doi-org.ru.idm.oclc.org/10.1177/13623613231166189
+8. **Girard, D.**, Courchesne, V., Cimon-Paquet, C., Jacques, C., & Soulières, I.  (2023). Visual abilities and exploration behaviors as predictors of intelligence in autistic children from preschool to school age. Autism. https://doi-org.ru.idm.oclc.org/10.1177/13623613231166189
 
    
-5. Vachon, M., Ummel, D., Guité-Verret, A., Lessard, E., **Girard, D**. (2023). A phenomenological and clinical description of pandemic grief: How to adapt bereavement services? Palliative Medicine Reports. 4 (1), 53-63. https://doi.org/10.1089/pmr.2022.0060
+9. Vachon, M., Ummel, D., Guité-Verret, A., Lessard, E., **Girard, D**. (2023). A phenomenological and clinical description of pandemic grief: How to adapt bereavement services? Palliative Medicine Reports. 4 (1), 53-63. https://doi.org/10.1089/pmr.2022.0060
    
-6. Vachon, M., Guité-Verret, A., Ummel, D., **Girard, D.**, Lessard, E. (2023). “I couldn’t”: A phenomenological exploration of ethical tensions experienced by bereaved family members during the pandemic. International Journal of Qualitative Studies on Health and Well-being. 18(1). 2186337. https://doi.org/10.1080/17482631.2023.2186337
+10. Vachon, M., Guité-Verret, A., Ummel, D., **Girard, D.**, Lessard, E. (2023). “I couldn’t”: A phenomenological exploration of ethical tensions experienced by bereaved family members during the pandemic. International Journal of Qualitative Studies on Health and Well-being. 18(1). 2186337. https://doi.org/10.1080/17482631.2023.2186337
 
-7. Bourgeois-Guérin, V., **Girard, D.**, Martin, C., Sussman, T., Gagnon, E., Simard, J., Van Pevenage., & Durivage., P. (2023). It Was Like Wartime: End-Of-Life and Bereavement in Long-Term Care Homes and Assisted Living Facilities During the COVID-19 Pandemic. Frontières. 33 (2). https://doi.org/10.7202/1095218ar.
+11. Bourgeois-Guérin, V., **Girard, D.**, Martin, C., Sussman, T., Gagnon, E., Simard, J., Van Pevenage., & Durivage., P. (2023). It Was Like Wartime: End-Of-Life and Bereavement in Long-Term Care Homes and Assisted Living Facilities During the COVID-19 Pandemic. Frontières. 33 (2). https://doi.org/10.7202/1095218ar.
    
-8.  **Girard, D.**, & Bourgeois-Guérin, V. (2022). Hope and Suffering: a Hermeneutical and Existential Analysis of Akhmatova’s Requiem. The Humanistic Psychologist. 55 (1), 55-69.  https://doi.org/10.1037/hum0000178
+12.  **Girard, D.**, & Bourgeois-Guérin, V. (2022). Hope and Suffering: a Hermeneutical and Existential Analysis of Akhmatova’s Requiem. The Humanistic Psychologist. 55 (1), 55-69.  https://doi.org/10.1037/hum0000178
 
-9.  **Girard, D.**, Courchesne, V., Degré-Pelletier, J., Letendre, C., & Soulières, I. (2022). Assessing global developmental delay across instruments in minimally verbal preschool autistic children: the importance of a multi-method and multi-informant approach. Autism Research, 15 (1), 103-116. https://doi.org/10.1002/aur.2630
+13.  **Girard, D.**, Courchesne, V., Degré-Pelletier, J., Letendre, C., & Soulières, I. (2022). Assessing global developmental delay across instruments in minimally verbal preschool autistic children: the importance of a multi-method and multi-informant approach. Autism Research, 15 (1), 103-116. https://doi.org/10.1002/aur.2630
 
-10.  Courchesne, V., **Girard, D.**, Jacques, C., & Soulières, I. (2019). Assessing intelligence at autism diagnosis: mission impossible? Testability and cognitive profile of autistic pre-schoolers. Journal of Autism and Developmental Disorders. 49(3), 845-856. https://doi.org/10.1007/s10803-018-3786-4
+14.  Courchesne, V., **Girard, D.**, Jacques, C., & Soulières, I. (2019). Assessing intelligence at autism diagnosis: mission impossible? Testability and cognitive profile of autistic pre-schoolers. Journal of Autism and Developmental Disorders. 49(3), 845-856. https://doi.org/10.1007/s10803-018-3786-4
 
-11. Bourdon, D.-E., El-Baalbaki, G., **Girard, D.**, Lapointe-Blackburn, E., & Guay, S. (2018). Schemas and Coping Strategies in CognitiveBehavioral Therapy for PTSD: A Systematic Review. European Journal of Trauma & Dissociation. 3(1), 33-47. https://doi.org/10.1016/j.ejtd.2018.09.005
+15. Bourdon, D.-E., El-Baalbaki, G., **Girard, D.**, Lapointe-Blackburn, E., & Guay, S. (2018). Schemas and Coping Strategies in CognitiveBehavioral Therapy for PTSD: A Systematic Review. European Journal of Trauma & Dissociation. 3(1), 33-47. https://doi.org/10.1016/j.ejtd.2018.09.005
 
-12. **Girard, D.**, Tardif, J.-C., Boisclair-Demarble, J., & D’Antono, B. (2016). Trait hostility and acute inflammatory responses to stress in the laboratory. PlosONE, 11(6).   https://doi.org/10.1371/journal.pone.0156329
+16. **Girard, D.**, Tardif, J.-C., Boisclair-Demarble, J., & D’Antono, B. (2016). Trait hostility and acute inflammatory responses to stress in the laboratory. PlosONE, 11(6).   https://doi.org/10.1371/journal.pone.0156329
    
-13. Courchesne, V., Nader, A.-M., **Girard, D.**, Bouchard, V., Danis, E., & Soulières, I. (2016). Le profil cognitif au service des apprentissages : optimiser le potentiel des enfants sur le spectre de l’autisme. Revue québécoise de psychologie. 37(2), 1-39. https://doi.org/10.7202/1040041ar
+17. Courchesne, V., Nader, A.-M., **Girard, D.**, Bouchard, V., Danis, E., & Soulières, I. (2016). Le profil cognitif au service des apprentissages : optimiser le potentiel des enfants sur le spectre de l’autisme. Revue québécoise de psychologie. 37(2), 1-39. https://doi.org/10.7202/1040041ar
 
 
 
