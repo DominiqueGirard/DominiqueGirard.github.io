@@ -1,7 +1,7 @@
 ---
 weight: 2
 title: "Publications"
-date: 2023-07-21
+date: 2025-09-07
 ---
 
 <!--more-->
@@ -24,7 +24,6 @@ date: 2023-07-21
    
 8. **Girard, D.**, Courchesne, V., Cimon-Paquet, C., Jacques, C., & Soulières, I.  (2023). Visual abilities and exploration behaviors as predictors of intelligence in autistic children from preschool to school age. Autism. https://doi-org.ru.idm.oclc.org/10.1177/13623613231166189
 
-   
 9. Vachon, M., Ummel, D., Guité-Verret, A., Lessard, E., **Girard, D**. (2023). A phenomenological and clinical description of pandemic grief: How to adapt bereavement services? Palliative Medicine Reports. 4 (1), 53-63. https://doi.org/10.1089/pmr.2022.0060
    
 10. Vachon, M., Guité-Verret, A., Ummel, D., **Girard, D.**, Lessard, E. (2023). “I couldn’t”: A phenomenological exploration of ethical tensions experienced by bereaved family members during the pandemic. International Journal of Qualitative Studies on Health and Well-being. 18(1). 2186337. https://doi.org/10.1080/17482631.2023.2186337
