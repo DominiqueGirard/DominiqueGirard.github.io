@@ -18,7 +18,7 @@ jobs:
       - name: Setup Hugo
         uses: peaceiris/actions-hugo@v2
         with:
-          hugo-version: '0.127.0'  # Last version before paginate was removed
+          hugo-version: '0.123.8'  # Last version before paginate was removed
           # extended: true
 
       - name: Build
