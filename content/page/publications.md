@@ -8,7 +8,7 @@ date: 2023-07-21
 
 #### Articles (peer-reviewed)
 
-1. **Girard, D.**, Tuinema, M., Dargis, L., van Wijngaarden, E. (2025). The meaning of suffering in the context of euthanasia and assisted suicide: A Meta-Ethnography. Mortality. https://doi.org/10.1080/13576275.2025.2509510
+1. **Girard, D.**, Tuinema, M., van Wijngaarden, E. (2025). The meaning of suffering in the context of euthanasia and assisted suicide: A Meta-Ethnography. Mortality. https://doi.org/10.1080/13576275.2025.2509510
 
 2. Thölking, T. W., **Girard, D.**, Engels, Y., Schoon, Y., Van Wijngaarden, E. (2025). Considerations of older adults with multimorbidity when facing healthcare choices: a qualitative systematic review. Patient Education and Counseling. https://doi.org/10.1016/j.pec.2025.109194 
 
