@@ -1,7 +1,7 @@
 ---
 weight: 2
 title: "Publications"
-date: 2025-09-07
+date: 2025-09-06
 ---
 
 <!--more-->
