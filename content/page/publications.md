@@ -8,6 +8,9 @@ date: 2025-09-06
 
 #### Articles (peer-reviewed)
 
+1. Bouthillier M., Marcoux I., Perron C., Gagnon B., Lussier D., Rouly G., Moreau M., Dorval M., Lessard S., **Girard D.**, Bravo G., Hébert M., Giroux M., Lemyre S., Beaudin A., Bourque C.J., Soulières M., Lévesque M., Gupta M., Bourgeois-Guérin V., Lavoie D., Lavoie B., Plaisance A., Bernier L.
+What Factors Explain the Growing Use of Medical Assistance in Dying in Quebec? Protocol of an Interdisciplinary, Mixed and Multi Methods Study. JMIR Preprints. https://preprints.jmir.org/preprint/83549
+
 1. **Girard, D.**, Tuinema, M., van Wijngaarden, E. (2025). The meaning of suffering in the context of euthanasia and assisted suicide: A Meta-Ethnography. Mortality. https://doi.org/10.1080/13576275.2025.2509510
 
 2. Thölking, T. W., **Girard, D.**, Engels, Y., Schoon, Y., Van Wijngaarden, E. (2025). Considerations of older adults with multimorbidity when facing healthcare choices: a qualitative systematic review. Patient Education and Counseling. https://doi.org/10.1016/j.pec.2025.109194 
